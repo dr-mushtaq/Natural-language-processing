@@ -5,7 +5,7 @@ This repository is a related to all about Natural Langauge Processing - an A-Z g
                               https://coursesteach.com/
 
 ## Module 01  - [Natural Language Processing with Classification and Vector Spaces](https://github.com/hussain0048/Natural-language-processing/tree/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
-### Week 1-[]()
+### Week 1-[** Sentiment Analysis using Logistic Regression**]()
    - [**Preprocessing_Aassignment_1.ipynb**](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb)
   - [**Lab#1:Visualizing word frequencies**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_word_frequencies.ipynb)
   - [**Lab 2:Visualizing tweets and the Logistic Regression model**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)
