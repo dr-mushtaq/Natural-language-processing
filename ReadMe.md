@@ -12,6 +12,7 @@ This repository is a related to all about Natural Langauge Processing - an A-Z g
   - [**Lab 2:Visualizing tweets and the Logistic Regression model**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)
   - [**Assignmen:Sentiment analysis with logistic Regression**](https://github.com/hussain0048/Natural-language-processing/blob/main/Sentiment_analysis_with_logistic_Regression_Assignment.ipynb)
   ### Week 2-[** Sentiment Analysis using Naive Bayes**]()
+  - [**Lab1-Visualizing Naive Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb)
  
 ## Module 02  - [Supervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
