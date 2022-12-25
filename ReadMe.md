@@ -15,28 +15,8 @@ This repository is a related to all about Natural Langauge Processing - an A-Z g
   - [**Lab1-Visualizing Naive Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb)
   - [**Assignment_2_Naive_Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Assignment_2_Naive_Bayes.ipynb)
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  0
- 
-## Module 02  - [Supervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
-  - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
+## Week 3  - [**Vector Space Model**] [Supervised Learning]()
+  - [Lab1_Linear_algebra_in_Python_with_Numpy.ipynb](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)
   - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
   - [**KNN with Python**](https://github.com/hussain0048/Machine-Learning/blob/master/KNN_with_Python_.ipynb)
   - [**Build Machine Learning Pipelines**](https://github.com/hussain0048/Machine-Learning/blob/master/Build_Machine_Learning_Pipelines.ipynb)
