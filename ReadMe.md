@@ -18,6 +18,10 @@ This repository is a related to all about Natural Langauge Processing - an A-Z g
 ## Week 3 - [**Vector Space Model**]()
   - [Lab1_Linear_algebra_in_Python_with_Numpy.ipynb](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)
   - [Lab:2_Manipulating word embeddings](https://github.com/hussain0048/Natural-language-processing/blob/main/Manipulating_word_embeddings.ipynb)
+  
+  ## Week 4 - [**Machine Translation and Document Search**]()
+  - [Lab1 Rotation matrices R2](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)
+  - [Lab2:Hash tables](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab2_Hash_tables.ipynb)
  
 
 ## Week - [**Building Chatbots in Python**]()
