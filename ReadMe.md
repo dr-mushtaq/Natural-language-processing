@@ -28,8 +28,8 @@ Together, let's make this the best AI learning hub website! 🚀
   - [Lab2:Hash tables](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab2_Hash_tables.ipynb)
   
  ## Module 02  - [Natural Language Processing with Probabilistic Models](https://github.com/hussain0048/Natural-language-processing/tree/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
+ - [Lab:1-building_the_vocabulary](https://github.com/hussain0048/Natural-language-processing/blob/main/building_the_vocabulary.ipynb)
  
-
 ## Week - [**Building Chatbots in Python**]()
   - [**Building Chatbots in Python**](https://github.com/hussain0048/Natural-language-processing/blob/main/Chatbot_using_python.ipynb)
 
