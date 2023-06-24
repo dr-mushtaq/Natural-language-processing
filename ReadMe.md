@@ -31,6 +31,8 @@ Together, let's make this the best AI learning hub website! 🚀
  ### Week 1-[**Autocorrect and Mininum Edit Distance**]()
  - [Lab:1-building_the_vocabulary](https://github.com/hussain0048/Natural-language-processing/blob/main/building_the_vocabulary.ipynb)
  - [Lecture notebook: Candidates from edits](https://github.com/hussain0048/Natural-language-processing/blob/main/candidates_from_edits.ipynb)
+
+ ### Week 2-[**Part of Speech Tagging and Hidden Markov Models**]()
  
 ## Week - [**Building Chatbots in Python**]()
   - [**Building Chatbots in Python**](https://github.com/hussain0048/Natural-language-processing/blob/main/Chatbot_using_python.ipynb)
