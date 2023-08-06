@@ -35,12 +35,12 @@ Together, let's make this the best AI learning hub website! 🚀
   - [Lab1 Rotation matrices R2](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)
   - [Lab2:Hash tables](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab2_Hash_tables.ipynb)
   
- ## Course 02  - [📚🧑‍🎓📝Natural Language Processing with Probabilistic Models](https://github.com/hussain0048/Natural-language-processing/tree/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
- ### Week 1-[**Autocorrect and Mininum Edit Distance**]()
+ ## Course 02  - [📚🧑‍🎓📝Natural Language Processing with Probabilistic Models](https://coursesteach.com/course/view.php?id=187)
+ ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
  - [Lab:1-building_the_vocabulary](https://github.com/hussain0048/Natural-language-processing/blob/main/building_the_vocabulary.ipynb)
  - [Lecture notebook: Candidates from edits](https://github.com/hussain0048/Natural-language-processing/blob/main/candidates_from_edits.ipynb)
 
- ### Week 2-[**Part of Speech Tagging and Hidden Markov Models**]()
+ ### Week 2-[**📚Chapter2:Part of Speech Tagging and Hidden Markov Models**]()
   - [Lecture Notebook - Working with text files](https://github.com/hussain0048/Natural-language-processing/blob/main/Lecture_Notebook_Working_with_text_files.ipynb)
   - [Lecture Notebook - Working with tags and Numpy]()
  
