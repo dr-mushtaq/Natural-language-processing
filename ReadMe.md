@@ -15,7 +15,7 @@ Together, let's make this the best AI learning hub website! 🚀
  - [**Natural Language Processing Tasks and Applications-Tutorial**](https://medium.com/@Coursesteach/natural-language-processing-part-2-c78237784247)
  - [**Best Free Resources to Learn NLP-Tutorial**](https://medium.com/@Coursesteach/best-free-resources-to-learn-nlp-d7b6be97ba10)
 
-### Week 1-[**📚 Chapter 2: Sentiment Analysis (Text Classification)**]()
+### Week 1-[**📚Chapter 2:Sentiment Analysis (Text Classification)**]()
    - [**Preprocessing_Aassignment_1.ipynb**](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb)
    - [**Supervised ML & Sentiment Analysis(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-3-214177ca96d4)
    - [**Vocabulary & Feature Extraction(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-4-1ba37434f33b)
@@ -23,7 +23,7 @@ Together, let's make this the best AI learning hub website! 🚀
   - [**Lab#1:Visualizing word frequencies**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_word_frequencies.ipynb)
   - [**Lab 2:Visualizing tweets and the Logistic Regression model**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)
   - [**Assignmen:Sentiment analysis with logistic Regression**](https://github.com/hussain0048/Natural-language-processing/blob/main/Sentiment_analysis_with_logistic_Regression_Assignment.ipynb)
-  ### Week 2-[**📚Chapter 2:Sentiment Analysis using Naive Bayes**]()
+  ### Week 2-[**📚Chapter2:Sentiment Analysis using Naive Bayes**]()
   - [**Lab1-Visualizing Naive Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb)
   - [**Assignment_2_Naive_Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Assignment_2_Naive_Bayes.ipynb)
   
