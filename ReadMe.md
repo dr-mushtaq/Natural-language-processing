@@ -34,6 +34,7 @@ Together, let's make this the best AI learning hub website! 🚀
 
  ### Week 2-[**Part of Speech Tagging and Hidden Markov Models**]()
   - [Lecture Notebook - Working with text files](https://github.com/hussain0048/Natural-language-processing/blob/main/Lecture_Notebook_Working_with_text_files.ipynb)
+  - [Lecture Notebook - Working with tags and Numpy]()
  
 ## Week - [**Building Chatbots in Python**]()
   - [**Building Chatbots in Python**](https://github.com/hussain0048/Natural-language-processing/blob/main/Chatbot_using_python.ipynb)
