@@ -23,7 +23,7 @@ Together, let's make this the best AI learning hub website! 🚀
   - [**Lab#1:Visualizing word frequencies**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_word_frequencies.ipynb)
   - [**Lab 2:Visualizing tweets and the Logistic Regression model**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)
   - [**Assignmen:Sentiment analysis with logistic Regression**](https://github.com/hussain0048/Natural-language-processing/blob/main/Sentiment_analysis_with_logistic_Regression_Assignment.ipynb)
-  ### Week 2-[** Sentiment Analysis using Naive Bayes**]()
+  ### Week 2-[**📚Chapter 2:Sentiment Analysis using Naive Bayes**]()
   - [**Lab1-Visualizing Naive Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb)
   - [**Assignment_2_Naive_Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Assignment_2_Naive_Bayes.ipynb)
   
