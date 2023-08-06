@@ -13,6 +13,7 @@ Together, let's make this the best AI learning hub website! 🚀
 ### Week 0-[**Introduction**]()
  - [**What is Natural Language Processing (NLP)**](https://medium.com/@Coursesteach/natural-language-processing-part-1-5727b4efc8b4)
  - [**Natural Language Processing Tasks and Applications**](https://medium.com/@Coursesteach/natural-language-processing-part-2-c78237784247)
+ - [**Best Free Resources to Learn NLP**](https://medium.com/@Coursesteach/best-free-resources-to-learn-nlp-d7b6be97ba10)
 
 ### Week 1-[**Sentiment Analysis using Logistic Regression**]()
    - [**Preprocessing_Aassignment_1.ipynb**](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb)
