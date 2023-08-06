@@ -15,6 +15,7 @@ Together, let's make this the best AI learning hub website! 🚀
  - [**Natural Language Processing Tasks and Applications**](https://medium.com/@Coursesteach/natural-language-processing-part-2-c78237784247)
 
 ### Week 1-[**Sentiment Analysis using Logistic Regression**]()
+   -[**Supervised ML & Sentiment Analysis**](https://medium.com/@Coursesteach/natural-language-processing-part-3-214177ca96d4)
    - [**Preprocessing_Aassignment_1.ipynb**](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb)
   - [**Lab#1:Visualizing word frequencies**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_word_frequencies.ipynb)
   - [**Lab 2:Visualizing tweets and the Logistic Regression model**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)
