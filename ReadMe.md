@@ -10,6 +10,8 @@ Together, let's make this the best AI learning hub website! 🚀
                               https://coursesteach.com/course/view.php?id=46
 
 ## Module 01  - [Natural Language Processing with Classification and Vector Spaces](https://github.com/hussain0048/Natural-language-processing/tree/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
+### Week 0-[** Introduction**]()
+    - [**What is Natural Language Processing (NLP)**](https://medium.com/@Coursesteach/natural-language-processing-part-1-5727b4efc8b4)
 ### Week 1-[** Sentiment Analysis using Logistic Regression**]()
    - [**Preprocessing_Aassignment_1.ipynb**](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb)
   - [**Lab#1:Visualizing word frequencies**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_word_frequencies.ipynb)
