@@ -8,6 +8,7 @@ Together, let's make this the best AI learning hub website! 🚀
 
                               https://coursesteach.com/
                               https://coursesteach.com/course/view.php?id=46
+[**Complete NLP Python Notebook**](https://medium.com/@hemansnation/god-level-data-science-machine-learning-full-stack-roadmap-2023-ed3c414597d0)
 
 ## Course 01  - [📚🧑‍🎓📝Natural Language Processing with Classification and Vector Spaces](https://coursesteach.com/course/view.php?id=46)
 ### Week 0-[**📚Chapter 1:Introduction**]()
