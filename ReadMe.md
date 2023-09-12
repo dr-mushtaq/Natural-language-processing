@@ -48,6 +48,7 @@ Together, let's make this the best AI learning hub website! 🚀
   - [Lecture Notebook - Working with text files](https://github.com/hussain0048/Natural-language-processing/blob/main/Lecture_Notebook_Working_with_text_files.ipynb)
   - [Lecture Notebook - Working with tags and Numpy]()
   - [**Assignment: Part of Speech Tagging**](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)
+  - [Assignment 2: Parts-of-Speech Tagging (POS)](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)
  
 ## Week - [**Building Chatbots in Python**]()
   - [**Building Chatbots in Python**](https://github.com/hussain0048/Natural-language-processing/blob/main/Chatbot_using_python.ipynb)
