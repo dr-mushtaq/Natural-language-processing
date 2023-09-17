@@ -24,6 +24,8 @@ Together, let's make this the best AI learning hub website! 🚀
    - [**Text pre-processing**](https://medium.com/@Coursesteach/natural-language-processing-part-7-6e73b81ecc7c)
    - [**Putting it All Together**](https://medium.com/@Coursesteach/natural-language-processing-part-8-5435d573d660)
    - [**Logistic Regression Overview**](https://medium.com/@Coursesteach/natural-language-processing-part-9-13690a56d5bb)
+   - [**Logistic Regression: Training**](https://medium.com/@Coursesteach/natural-language-processing-part-10-80b392750ef4)
+   - [**Logistic Regression: Testing**](https://medium.com/@Coursesteach/natural-language-processing-part-11-79ba0c3b0623)
   - [**Lab#1:Visualizing word frequencies**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_word_frequencies.ipynb)
   - [**Lab 2:Visualizing tweets and the Logistic Regression model**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)
   - [**Assignmen:Sentiment analysis with logistic Regression**](https://github.com/hussain0048/Natural-language-processing/blob/main/Sentiment_analysis_with_logistic_Regression_Assignment.ipynb)
