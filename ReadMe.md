@@ -32,7 +32,7 @@ Together, let's make this the best AI learning hub website! 🚀
 |[**Logistic Regression: Testing**](https://medium.com/@Coursesteach/natural-language-processing-part-11-79ba0c3b0623)|---|---|
 |[**Logistic Regression: Cost Function**](https://medium.com/@Coursesteach/natural-language-processing-part-12-dac8146c288c)|---|---|
 |[**Lab#1:Visualizing word frequencies**]()|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_word_frequencies.ipynb)|
-| [**Lab 2:Visualizing tweets and the Logistic Regression model**]()|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)|
+| [**Lab 2:Visualizing tweets and the Logistic Regression model**]|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)|
 |[**Assignmen:Sentiment analysis with logistic Regression**]()|---||
    
   ### Week 2-[**📚Chapter2:Sentiment Analysis using Naive Bayes**]()
