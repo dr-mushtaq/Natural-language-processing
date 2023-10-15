@@ -39,8 +39,7 @@ Together, let's make this the best AI learning hub website! 🚀
 |---|---|---|
 | [**1-Probability and Bayes’ Rule**](https://medium.com/@Coursesteach/natural-language-processing-part-14-d3de0382ba09) | [**Video**](https://drive.google.com/file/d/1plPqQBOJrMGMrUqQFEs8M4uD6pxKXDnp/view) | Content 3 |
 | **Lab1-Visualizing Naive Bayes** | Content 5 | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb) |
-  - [**Lab1-Visualizing Naive Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb)
-  - [**Assignment_2_Naive_Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Assignment_2_Naive_Bayes.ipynb)
+|**Assignment_2_Naive_Bayes**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Assignment_2_Naive_Bayes.ipynb) |
   
 ## Week 3 -[**📚Chapter 3:Vector Space Model**]()
   - [Lab1_Linear_algebra_in_Python_with_Numpy.ipynb](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)
