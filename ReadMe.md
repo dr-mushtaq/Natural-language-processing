@@ -6,10 +6,10 @@ This repository is a related to all about Natural Langauge Processing - an A-Z g
 
 Together, let's make this the best AI learning hub website! 🚀
 
-                             [**coursesteach**](https://coursesteach.com/)
-                              https://coursesteach.com/course/view.php?id=46
+                             https://coursesteach.com
+                             https://coursesteach.com/course/view.php?id=46
 
-## Course 01  - [📚🧑‍🎓📝Natural Language Processing with Classification and Vector Spaces](https://coursesteach.com/course/view.php?id=46)
+## Course 01  - [📚🧑‍🎓📝Classification and Vector Spaces](https://coursesteach.com/course/view.php?id=46)
 ### Week 0-**📚Chapter 1:Introduction**
 | Tutorial | Video | Code |
 |---|---|---|
