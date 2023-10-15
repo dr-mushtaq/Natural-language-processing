@@ -12,10 +12,11 @@ Together, let's make this the best AI learning hub website! 🚀
 
 ## Course 01  - [📚🧑‍🎓📝Natural Language Processing with Classification and Vector Spaces](https://coursesteach.com/course/view.php?id=46)
 ### Week 0-[**📚Chapter 1:Introduction**]()
- - [**What is Natural Language Processing (NLP)(Tutorial**](https://medium.com/@Coursesteach/natural-language-processing-part-1-5727b4efc8b4)
- - [**Natural Language Processing Tasks and Applications-Tutorial**](https://medium.com/@Coursesteach/natural-language-processing-part-2-c78237784247)
- - [**Best Free Resources to Learn NLP-Tutorial**](https://medium.com/@Coursesteach/best-free-resources-to-learn-nlp-d7b6be97ba10)
-
+| Tutorial | Video | Code |
+|[**1-What is Natural Language Processing (NLP)**](https://medium.com/@Coursesteach/natural-language-processing-part-1-5727b4efc8b4)|---|---|
+| [**2- Natural Language Processing Tasks and Applications-Tutorial**](https://medium.com/@Coursesteach/natural-language-processing-part-2-c78237784247) | Content 2 | Content 3 |
+| [**3- Best Free Resources to Learn NLP-Tutorial**](https://medium.com/@Coursesteach/best-free-resources-to-learn-nlp-d7b6be97ba10) | Content 5 | Content 6 |
+ 
 ### Week 1-[**📚Chapter 2:Sentiment Analysis (logistic Regression)**]()
    - [**Preprocessing_Aassignment_1.ipynb**](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb)
    - [**Supervised ML & Sentiment Analysis(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-3-214177ca96d4)
