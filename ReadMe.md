@@ -35,6 +35,10 @@ Together, let's make this the best AI learning hub website! 🚀
 |**Assignmen:Sentiment analysis with logistic Regression**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Sentiment_analysis_with_logistic_Regression_Assignment.ipynb)|
    
   ### Week 2-[**📚Chapter2:Sentiment Analysis using Naive Bayes**]()
+  | Tutorial | Video | Code |
+|---|---|---|
+| [**1-Probability and Bayes’ Rule**](https://medium.com/@Coursesteach/natural-language-processing-part-14-d3de0382ba09) | [**Video**](https://drive.google.com/file/d/1plPqQBOJrMGMrUqQFEs8M4uD6pxKXDnp/view) | Content 3 |
+| Content 4 | Content 5 | Content 6 |
   - [**Lab1-Visualizing Naive Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb)
   - [**Assignment_2_Naive_Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Assignment_2_Naive_Bayes.ipynb)
   
