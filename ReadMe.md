@@ -22,7 +22,7 @@ Together, let's make this the best AI learning hub website! 🚀
 | Tutorial | Video | Code |
 |---|---|---|
 |**1- Preprocessing_Aassignment_1**| Content 2 |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb) |
-|[**2- Supervised ML & Sentiment Analysis(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-3-214177ca96d4) | Content 5 | Content 6 |
+|[**2- Supervised ML & Sentiment Analysis(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-3-214177ca96d4) | Content 5 | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb) |
 |[**Vocabulary & Feature Extraction(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-4-1ba37434f33b)|---|---|
 |[**Negative and Positive Frequencies(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-5-c42cb5265534)|---|---|
 |[**Text pre-processing**](https://medium.com/@Coursesteach/natural-language-processing-part-7-6e73b81ecc7c)|---|---|
