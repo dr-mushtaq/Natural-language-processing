@@ -34,7 +34,7 @@ Together, let's make this the best AI learning hub website! 🚀
 |**Lab 2:Visualizing tweets and the Logistic Regression model**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)|
 |**Assignmen:Sentiment analysis with logistic Regression**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Sentiment_analysis_with_logistic_Regression_Assignment.ipynb)|
    
-  ### Week 2-[**📚Chapter2:Sentiment Analysis using Naive Bayes**]()
+  ### Week 2-**📚Chapter2:Sentiment Analysis using Naive Bayes**
   | Tutorial | Video | Code |
 |---|---|---|
 | [**1-Probability and Bayes’ Rule**](https://medium.com/@Coursesteach/natural-language-processing-part-14-d3de0382ba09) | [**Video**](https://drive.google.com/file/d/1plPqQBOJrMGMrUqQFEs8M4uD6pxKXDnp/view) | Content 3 |
