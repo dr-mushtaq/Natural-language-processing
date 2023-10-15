@@ -19,19 +19,22 @@ Together, let's make this the best AI learning hub website! 🚀
 | [**3- Best Free Resources to Learn NLP-Tutorial**](https://medium.com/@Coursesteach/best-free-resources-to-learn-nlp-d7b6be97ba10) | Content 5 | Content 6 |
  
 ### Week 1-[**📚Chapter 2:Sentiment Analysis (logistic Regression)**]()
-   - [**Preprocessing_Aassignment_1.ipynb**](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb)
-   - [**Supervised ML & Sentiment Analysis(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-3-214177ca96d4)
-   - [**Vocabulary & Feature Extraction(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-4-1ba37434f33b)
-   - [**Negative and Positive Frequencies(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-5-c42cb5265534)
-   - [**Text pre-processing**](https://medium.com/@Coursesteach/natural-language-processing-part-7-6e73b81ecc7c)
-   - [**Putting it All Together**](https://medium.com/@Coursesteach/natural-language-processing-part-8-5435d573d660)
-   - [**Logistic Regression Overview**](https://medium.com/@Coursesteach/natural-language-processing-part-9-13690a56d5bb)
-   - [**Logistic Regression: Training**](https://medium.com/@Coursesteach/natural-language-processing-part-10-80b392750ef4)
-   - [**Logistic Regression: Testing**](https://medium.com/@Coursesteach/natural-language-processing-part-11-79ba0c3b0623)
-   - [**Logistic Regression: Cost Function**](https://medium.com/@Coursesteach/natural-language-processing-part-12-dac8146c288c)
-  - [**Lab#1:Visualizing word frequencies**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_word_frequencies.ipynb)
-  - [**Lab 2:Visualizing tweets and the Logistic Regression model**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)
-  - [**Assignmen:Sentiment analysis with logistic Regression**](https://github.com/hussain0048/Natural-language-processing/blob/main/Sentiment_analysis_with_logistic_Regression_Assignment.ipynb)
+| Tutorial | Video | Code |
+|---|---|---|
+|[**1- Preprocessing_Aassignment_1.ipynb**](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb) | Content 2 | Content 3 |
+|[**2- Supervised ML & Sentiment Analysis(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-3-214177ca96d4) | Content 5 | Content 6 |
+|[**Vocabulary & Feature Extraction(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-4-1ba37434f33b)|---|---|
+|[**Negative and Positive Frequencies(Tutorial)**](https://medium.com/@Coursesteach/natural-language-processing-part-5-c42cb5265534)|---|---|
+|[**Text pre-processing**](https://medium.com/@Coursesteach/natural-language-processing-part-7-6e73b81ecc7c)|---|---|
+|[**Putting it All Together**](https://medium.com/@Coursesteach/natural-language-processing-part-8-5435d573d660)|---|---|
+|[**Logistic Regression Overview**](https://medium.com/@Coursesteach/natural-language-processing-part-9-13690a56d5bb)|---|---|
+|[**Logistic Regression: Training**](https://medium.com/@Coursesteach/natural-language-processing-part-10-80b392750ef4)|---|---|
+|[**Logistic Regression: Testing**](https://medium.com/@Coursesteach/natural-language-processing-part-11-79ba0c3b0623)|---|---|
+|[**Logistic Regression: Cost Function**](https://medium.com/@Coursesteach/natural-language-processing-part-12-dac8146c288c)|---|---|
+|[**Lab#1:Visualizing word frequencies**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_word_frequencies.ipynb)|---|---|
+| [**Lab 2:Visualizing tweets and the Logistic Regression model**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)|---|---|
+|[**Assignmen:Sentiment analysis with logistic Regression**](https://github.com/hussain0048/Natural-language-processing/blob/main/Sentiment_analysis_with_logistic_Regression_Assignment.ipynb)|---|---|
+   
   ### Week 2-[**📚Chapter2:Sentiment Analysis using Naive Bayes**]()
   - [**Lab1-Visualizing Naive Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb)
   - [**Assignment_2_Naive_Bayes**](https://github.com/hussain0048/Natural-language-processing/blob/main/Assignment_2_Naive_Bayes.ipynb)
