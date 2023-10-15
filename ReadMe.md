@@ -17,7 +17,7 @@ Together, let's make this the best AI learning hub website! 🚀
 | [**2- Natural Language Processing Tasks and Applications-Tutorial**](https://medium.com/@Coursesteach/natural-language-processing-part-2-c78237784247) | Content 2 | Content 3 |
 | [**3- Best Free Resources to Learn NLP-Tutorial**](https://medium.com/@Coursesteach/best-free-resources-to-learn-nlp-d7b6be97ba10) | Content 5 | Content 6 |
  
-### Week 1-[**📚Chapter 2:Sentiment Analysis (logistic Regression)**]()
+### Week 1-**📚Chapter 2:Sentiment Analysis (logistic Regression)**
 | Tutorial | Video | Code |
 |---|---|---|
 |**1- Preprocessing_Aassignment_1**| Content 2 |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb) |
