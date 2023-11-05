@@ -9,7 +9,7 @@ Together, let's make this the best AI learning hub website! 🚀
                              https://coursesteach.com
                              https://coursesteach.com/course/view.php?id=46
 
-## Course 01  - [📚🧑‍🎓📝Classification and Vector Spaces](https://coursesteach.com/course/view.php?id=46)
+## Course 01  - 📚🧑‍🎓📝**Classification and Vector Spaces**
 ### Week 0-**📚Chapter 1:Introduction**
 | Tutorial | Video | Code |
 |---|---|---|
