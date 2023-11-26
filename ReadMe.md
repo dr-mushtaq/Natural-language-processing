@@ -42,6 +42,7 @@ Together, let's make this the best AI learning hub website! 🚀
 |[**3-Naïve Bayes Introduction**](https://medium.com/@Coursesteach/natural-language-processing-part-16-na%C3%AFve-bayes-introduction-1f4042d05b16)|[**Video**](https://drive.google.com/file/d/1RaCR90h7aBf9dJZP1iscaAV6dWclexgc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb)|
 |[**4-Laplacian Smoothing**](https://medium.com/@Coursesteach/natural-language-processing-part-17-laplacian-smoothing-7d4be71d0ded)|[**Video**](https://drive.google.com/file/d/137FsONo3kU-KTUvO8IvLN-Fnm34oduqM/view)|--|
 |[**5-Log Likelihood, Part 1**](https://medium.com/@Coursesteach/natural-language-processing-part-18-log-likelihood-part-1-80bfdab420ce)|[**Video**](https://drive.google.com/file/d/1okkcmFX-npmRgqohx0Rgz7Vnyjb6xPM-/view)|---|
+|[**6-Log Likelihood, Part 2**](https://medium.com/@Coursesteach/natural-language-processing-part-19-log-likelihood-part-2-ee3e872f33f3)|---|---|
 | **Lab1-Visualizing Naive Bayes** | Content 5 | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb) |
 |**Assignment_2_Naive_Bayes**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Assignment_2_Naive_Bayes.ipynb) |
   
