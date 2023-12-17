@@ -57,8 +57,10 @@ Together, let's make this the best AI learning hub website! 🚀
   - [Lab1 Rotation matrices R2](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)
   - [Lab2:Hash tables](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab2_Hash_tables.ipynb)
 </details>
+
+<details> 
+<summary> <h2>Course 02 - 📚Natural Language Processing with Probabilistic Models </h2> </summary>
   
- ## Course 02  - [📚🧑‍🎓📝Natural Language Processing with Probabilistic Models](https://coursesteach.com/course/view.php?id=187)
  ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
  - [Lab:1-building_the_vocabulary](https://github.com/hussain0048/Natural-language-processing/blob/main/building_the_vocabulary.ipynb)
  - [Lecture notebook: Candidates from edits](https://github.com/hussain0048/Natural-language-processing/blob/main/candidates_from_edits.ipynb)
@@ -68,6 +70,7 @@ Together, let's make this the best AI learning hub website! 🚀
   - [Lecture Notebook - Working with tags and Numpy]()
   - [**Assignment: Part of Speech Tagging**](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)
   - [Assignment 2: Parts-of-Speech Tagging (POS)](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)
+</details>
  
 ## Week - [**Building Chatbots in Python**]()
   - [**Building Chatbots in Python**](https://github.com/hussain0048/Natural-language-processing/blob/main/Chatbot_using_python.ipynb)
