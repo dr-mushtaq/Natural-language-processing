@@ -11,7 +11,6 @@ Together, let's make this the best AI learning hub website! 🚀
 <details> 
 <summary> <h2>Course 01 - 📚Classification and Vector Spaces </h2> </summary>
 
-## Course 01  - 📚🧑‍🎓📝**Classification and Vector Spaces**
 ### Week 0-**📚Chapter 1:Introduction**
 | Tutorial | Video | Code |
 |---|---|---|
