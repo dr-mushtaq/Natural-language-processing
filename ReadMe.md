@@ -71,9 +71,13 @@ Together, let's make this the best AI learning hub website! 🚀
   - [**Assignment: Part of Speech Tagging**](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)
   - [Assignment 2: Parts-of-Speech Tagging (POS)](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)
 </details>
+
+<details> 
+<summary> <h2>Course 03 - 📚Building Chatbots in Python </h2> </summary>
  
 ## Week - [**Building Chatbots in Python**]()
   - [**Building Chatbots in Python**](https://github.com/hussain0048/Natural-language-processing/blob/main/Chatbot_using_python.ipynb)
+</details>
 
 
 
