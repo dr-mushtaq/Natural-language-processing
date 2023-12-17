@@ -2,6 +2,8 @@
 
 This repository is a related to all about Natural Langauge Processing - an A-Z guide to the world of Data Science. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python) 
 
+Star this repo if you find it useful ⭐
+
 **Contribution**: We would love your help in making this repository  even better! If you know of an amazing NLP course that isn't listed here, or if you have any suggestions for improvement in any repository content, feel free to open an issue or submit a repository contribution request.
 
 Together, let's make this the best AI learning hub website! 🚀
