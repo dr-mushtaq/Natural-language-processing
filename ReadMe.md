@@ -12,14 +12,14 @@ Together, let's make this the best AI learning hub website! 🚀
 <summary> <h2>Course 01 - 📚Classification and Vector Spaces </h2> </summary>
 
 ### Week 0-**📚Chapter 1:Introduction**
-| Tutorial | Video | Code |
+| Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |[**🌐1-What is Natural Language Processing (NLP)**](https://medium.com/@Coursesteach/natural-language-processing-part-1-5727b4efc8b4)|---|---|
 | [**🌐2- Natural Language Processing Tasks and Applications-Tutorial**](https://medium.com/@Coursesteach/natural-language-processing-part-2-c78237784247) | Content 2 | Content 3 |
 | [**🌐3- Best Free Resources to Learn NLP-Tutorial**](https://medium.com/@Coursesteach/best-free-resources-to-learn-nlp-d7b6be97ba10) | Content 5 | Content 6 |
  
 ### Week 1-**📚Chapter 2:Sentiment Analysis (logistic Regression)**
-| Tutorial | Video | Code |
+| Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |**🌐1- Preprocessing_Aassignment_1**| Content 2 |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb) |
 |[**🌐2- Supervised ML & Sentiment Analysis**](https://medium.com/@Coursesteach/natural-language-processing-part-3-214177ca96d4) |[1](https://drive.google.com/file/d/1cN2GrXXW1mcxGkmoD4O1I4iydFrSZugz/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb) |
@@ -36,7 +36,7 @@ Together, let's make this the best AI learning hub website! 🚀
 |**🌐Assignmen:Sentiment analysis with logistic Regression**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Sentiment_analysis_with_logistic_Regression_Assignment.ipynb)|
    
   ### Week 2-**📚Chapter3:Sentiment Analysis using Naive Bayes**
-  | Tutorial | Video | Code |
+  | Topic Name/Tutorial | Video | Code |
 |---|---|---|
 | [**🌐1-Probability and Bayes’ Rule**](https://medium.com/@Coursesteach/natural-language-processing-part-14-d3de0382ba09) | [**1**](https://drive.google.com/file/d/1plPqQBOJrMGMrUqQFEs8M4uD6pxKXDnp/view) | Content 3 |
 |[**🌐2-Bayes’ Rule**](https://medium.com/@Coursesteach/natural-language-processing-part-15-bayes-rule-b87f9dff4a90)|[**1**](https://drive.google.com/file/d/19Nk0eUGhedfZAxwF_6xTvgl6KgedF5sl/view)|---|
