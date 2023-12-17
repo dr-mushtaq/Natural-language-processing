@@ -8,6 +8,8 @@ Together, let's make this the best AI learning hub website! 🚀
 
                              https://coursesteach.com
                              https://coursesteach.com/course/view.php?id=46
+<details> 
+<summary> <h2>Course 01 - 📚Classification and Vector Spaces </h2> </summary>
 
 ## Course 01  - 📚🧑‍🎓📝**Classification and Vector Spaces**
 ### Week 0-**📚Chapter 1:Introduction**
@@ -55,6 +57,7 @@ Together, let's make this the best AI learning hub website! 🚀
   ## Week 4 - [**📚Chapter 4:Machine Translation and Document Search**]()
   - [Lab1 Rotation matrices R2](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)
   - [Lab2:Hash tables](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab2_Hash_tables.ipynb)
+</details>
   
  ## Course 02  - [📚🧑‍🎓📝Natural Language Processing with Probabilistic Models](https://coursesteach.com/course/view.php?id=187)
  ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
