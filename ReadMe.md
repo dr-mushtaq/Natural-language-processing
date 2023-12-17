@@ -50,6 +50,7 @@ Together, let's make this the best AI learning hub website! 🚀
 | **🌐Lab1-Visualizing Naive Bayes** | Content 5 | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb) |
 |**🌐Assignment_2_Naive_Bayes**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Assignment_2_Naive_Bayes.ipynb) |
 |[**🌐8-Testing Naïve Bayes**](https://medium.com/@Coursesteach/natural-language-processing-part-21-testing-na%C3%AFve-bayes-d98579270263)| [**1**](https://drive.google.com/file/d/1ACc2n1F-oqGyzX2_GjfemJI59uGq0lam/view)|---|
+|[**🌐9-Applications of Naïve Bayes**](https://medium.com/@Coursesteach/natural-language-processing-part-21-testing-na%C3%AFve-bayes-d98579270263)| [**1**](https://drive.google.com/file/d/1rQm9FR06_7a8m6KzPVboaZtmL-ZMLwcu/view)|---|
   
 ## Week 3 -[**📚Chapter 3:Vector Space Model**]()
   - [Lab1_Linear_algebra_in_Python_with_Numpy.ipynb](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)
