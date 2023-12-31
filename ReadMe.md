@@ -52,6 +52,7 @@ Together, let's make this the best AI learning hub website! 🚀
 |[**🌐8-Testing Naïve Bayes**](https://medium.com/@Coursesteach/natural-language-processing-part-21-testing-na%C3%AFve-bayes-d98579270263)| [**1**](https://drive.google.com/file/d/1ACc2n1F-oqGyzX2_GjfemJI59uGq0lam/view)|---|
 |[**🌐9-Applications of Naïve Bayes**](https://medium.com/@Coursesteach/natural-language-processing-part-21-testing-na%C3%AFve-bayes-d98579270263)| [**1**](https://drive.google.com/file/d/1rQm9FR06_7a8m6KzPVboaZtmL-ZMLwcu/view)|---|
 |[**🌐10-Naïve Bayes Assumptions**](https://medium.com/@Coursesteach/natural-language-processing-part-23-na%C3%AFve-bayes-assumptions-5b2ef6f84810)| [**1**](https://drive.google.com/file/d/1gnHNYlMu9ttlLQuaRyerwtHG_cwwS_f6/view)|---|
+|[**🌐11-Error Analysis**](https://medium.com/@Coursesteach/natural-language-processing-part-24-error-analysis-9cdcf0385fdc)| [**1**](https://drive.google.com/file/d/1aJ1LZzlr8MyWDTr6WoyLqELf6jkHtBcf/view)|---|
   
 ## Week 3 -[**📚Chapter 3:Vector Space Model**]()
   - [Lab1_Linear_algebra_in_Python_with_Numpy.ipynb](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)
