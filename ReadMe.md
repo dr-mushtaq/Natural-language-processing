@@ -55,6 +55,7 @@ Together, let's make this the best AI learning hub website! 🚀
 |[**🌐11-Error Analysis**](https://medium.com/@Coursesteach/natural-language-processing-part-24-error-analysis-9cdcf0385fdc)| [**1**](https://drive.google.com/file/d/1aJ1LZzlr8MyWDTr6WoyLqELf6jkHtBcf/view)|---|
   
 ## Week 3 -[**📚Chapter 3:Vector Space Model**]()
+ | Topic Name/Tutorial | Video | Code |
   - |[**🌐1-Vector Space Models**](https://medium.com/@Coursesteach/natural-language-processing-part-25-vector-space-models-bad08067a5ac)| [**1**](https://drive.google.com/file/d/1Vuy_2RPHJhz2JaPJQK5RZxxMdchmBDL_/view)|---|
   - [Lab1_Linear_algebra_in_Python_with_Numpy.ipynb](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)
   - [Lab:2_Manipulating word embeddings](https://github.com/hussain0048/Natural-language-processing/blob/main/Manipulating_word_embeddings.ipynb)
