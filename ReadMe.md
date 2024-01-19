@@ -1,6 +1,6 @@
 **About**
 
-This repository is a related to all about Natural Langauge Processing - an A-Z guide to the world of Data Science. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python) 
+This repository is a related to all about Natural Langauge Processing - an A-Z guide to the world of  Natural Langauge Processing. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python) 
 
 Star this repo if you find it useful ⭐
 
