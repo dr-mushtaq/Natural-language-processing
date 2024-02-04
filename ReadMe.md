@@ -61,6 +61,7 @@ Together, let's make this the best AI learning hub website! 🚀
  |[**🌐2-Word by Word and Word by Doc**](https://medium.com/@Coursesteach/natural-language-processing-part-26-word-by-word-and-word-by-doc-4dfa832d2d8e)| [**1**](https://drive.google.com/file/d/1otyRw-Q3JBEDWVn59dxFeqDQxed558Zv/view)|---|
  |[**🌐3-Euclidean Distance**](https://medium.com/@Coursesteach/natural-language-processing-part-27-euclidean-distance-180befc6c6ef)| [**1**](https://drive.google.com/file/d/1zA0ygWA00RCXiuN86tJuQsitMvjraWZb/view)[-2](https://www.youtube.com/watch?v=m_CooIRM3UI)|---|
  |[**🌐4-Cosine Similarity: Intuition**](https://medium.com/@Coursesteach/natural-language-processing-part-28-cosine-similarity-intuition-68a4654d3cb2)| [**1**](https://drive.google.com/file/d/1z-6tCUnoWsMmlvr7rppk8ALdoY2Fyvjy/view)[-2](https://www.youtube.com/watch?v=m_CooIRM3UI)|---|
+ |[**🌐5-Cosine Similarity**](https://medium.com/@Coursesteach/natural-language-processing-part-29-cosine-similarity-51951f805087)| [**1**](https://drive.google.com/file/d/1dbcHscnLsVb0ztS2XtMUnw_Abx3ILLSw/view)|---|
 [Lab1_Linear_algebra_in_Python_with_Numpy.ipynb](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)
 [Lab:2_Manipulating word embeddings](https://github.com/hussain0048/Natural-language-processing/blob/main/Manipulating_word_embeddings.ipynb)
  
