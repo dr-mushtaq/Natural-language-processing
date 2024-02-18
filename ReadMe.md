@@ -60,8 +60,9 @@ Star this repo if you find it useful ⭐
  |[**🌐4-Cosine Similarity: Intuition**](https://medium.com/@Coursesteach/natural-language-processing-part-28-cosine-similarity-intuition-68a4654d3cb2)| [**1**](https://drive.google.com/file/d/1z-6tCUnoWsMmlvr7rppk8ALdoY2Fyvjy/view)[-2](https://www.youtube.com/watch?v=m_CooIRM3UI)|---|
  |[**🌐5-Cosine Similarity**](https://medium.com/@Coursesteach/natural-language-processing-part-29-cosine-similarity-51951f805087)| [**1**](https://drive.google.com/file/d/1dbcHscnLsVb0ztS2XtMUnw_Abx3ILLSw/view)|---|
  |[**🌐6-Manipulating Words in Vector Spaces**](https://medium.com/@Coursesteach/natural-language-processing-part-30-manipulating-words-in-vector-spaces-141f318eaa4c)| [**1**](https://drive.google.com/file/d/1nRYyNEv6_J4aK0KDXVl4reMD8A9PsYLw/view)|---|
-[Lab1_Linear_algebra_in_Python_with_Numpy.ipynb](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)
-[Lab:2_Manipulating word embeddings](https://github.com/hussain0048/Natural-language-processing/blob/main/Manipulating_word_embeddings.ipynb)
+ |[**🌐7-Visualization and PCA**](https://medium.com/@Coursesteach/natural-language-processing-part-30-manipulating-words-in-vector-spaces-141f318eaa4c)| [**1**](https://drive.google.com/file/d/1isV9n8-EY0Gv5NzsQp7Etk7Nrc9O5MBb/view)|---|
+[   🌐**8-Lab1_Linear_algebra_in_Python_with_Numpy.ipynb**](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)
+[ **🌐9-Lab:2_Manipulating word embeddings**](https://github.com/hussain0048/Natural-language-processing/blob/main/Manipulating_word_embeddings.ipynb)
  
   ## Week 4 - [**📚Chapter 4:Machine Translation and Document Search**]()
   - [Lab1 Rotation matrices R2](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)
