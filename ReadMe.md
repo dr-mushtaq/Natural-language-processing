@@ -69,7 +69,7 @@ Star this repo if you find it useful ⭐
   | Topic Name/Tutorial | Video | Code |
  |---|---|---|
  |[**🌐1-Transforming word vectors**](https://medium.com/@Coursesteach/natural-language-processing-part-33-transforming-word-vectors-37491a721ac7)| [**1**](https://drive.google.com/file/d/1bAP_tN6F23RBnlGv_WFWTdJ7sur9s1b-/view)|---|
-  - [Lab1 Rotation matrices R2](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)
+|[**🌐2-Lab1 Rotation matrices R2**]()| [**1**]|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)|
   - [Lab2:Hash tables](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab2_Hash_tables.ipynb)
 </details>
 
