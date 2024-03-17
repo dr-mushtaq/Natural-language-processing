@@ -7,8 +7,6 @@ This repository is a related to all about Natural Langauge Processing - an A-Z g
 
 Star this repo if you find it useful ⭐
 
-**Contribution:** We would love your help in making this course even better! If you want to contribute to this course then you are welcome, or if you have any suggestions for improving this repository content, feel free to contact. **email**:mushtaqmsit@gmail.com, **skype Id**:themushtaq48
-
 ## **📬 Contact**
    
    If you want to contact me, you can reach me through social handles.
