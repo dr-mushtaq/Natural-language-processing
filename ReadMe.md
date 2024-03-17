@@ -76,6 +76,7 @@ Star this repo if you find it useful ⭐
  |[**🌐1-Transforming word vectors**](https://medium.com/@Coursesteach/natural-language-processing-part-33-transforming-word-vectors-37491a721ac7)| [**1**](https://drive.google.com/file/d/1bAP_tN6F23RBnlGv_WFWTdJ7sur9s1b-/view)|---|
 |[**🌐2-Lab1 Rotation matrices R2**]()| [**1**]|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)|
 |[**🌐3-K-nearest neighbors**](https://medium.com/@Coursesteach/natural-language-processing-part-34-k-nearest-neighbors-03d4c44cc8b5)| [**1**](https://drive.google.com/file/d/1lIl19NUa-2zSzqYWNkkmsbUCAOuJ0Xs6/view)|---|
+|[**🌐4-Hash tables and hash functions**](https://medium.com/@Coursesteach/natural-language-processing-part-35-hash-tables-and-hash-functions-d8221321e63e)| [**1**](https://drive.google.com/file/d/1GQpWFbhzvruYZx1PLmKfj4o0OJ04roQv/view)|---|
   - [Lab2:Hash tables](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab2_Hash_tables.ipynb)
 </details>
 
