@@ -1,4 +1,7 @@
-**About**
+## **Welcome to Python 👋🛒**
+<p align="center">
+<img src="https://github.com/hussain0048/Python-Notes/blob/master/Orange%20%26%20Purple%20Geometric%20Tehnology%20Linkdln%20Banner%20(1).png"></a>
+</p>
 
 This repository is a related to all about Natural Langauge Processing - an A-Z guide to the world of  Natural Langauge Processing. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python) 
 
