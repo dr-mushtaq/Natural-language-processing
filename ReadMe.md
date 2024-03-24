@@ -81,6 +81,7 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
 |[**🌐2-Lab1 Rotation matrices R2**]()| [**1**]|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)|
 |[**🌐3-K-nearest neighbors**](https://medium.com/@Coursesteach/natural-language-processing-part-34-k-nearest-neighbors-03d4c44cc8b5)| [**1**](https://drive.google.com/file/d/1lIl19NUa-2zSzqYWNkkmsbUCAOuJ0Xs6/view)|---|
 |[**🌐4-Hash tables and hash functions**](https://medium.com/@Coursesteach/natural-language-processing-part-35-hash-tables-and-hash-functions-d8221321e63e)| [**1**](https://drive.google.com/file/d/1GQpWFbhzvruYZx1PLmKfj4o0OJ04roQv/view)|---|
+|[**🌐5-Locality sensitive hashing**](https://medium.com/@Coursesteach/natural-language-processing-part-36-locality-sensitive-hashing-4f559102b991)| [**1**](https://drive.google.com/file/d/1WJbttrKp6ZtyVZWJPmrhy7sfP01kEfjZ/view)|---|
   - [Lab2:Hash tables](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab2_Hash_tables.ipynb)
 </details>
 
