@@ -107,7 +107,7 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
   - [**Building Chatbots in Python**](https://github.com/hussain0048/Natural-language-processing/blob/main/Chatbot_using_python.ipynb)
 </details>
 
-## 💻 Workflow:
+## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
 
 - Fork the repository
 
