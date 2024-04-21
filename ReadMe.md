@@ -92,6 +92,12 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
 <summary> <h2>Course 02 - 📚Natural Language Processing with Probabilistic Models </h2> </summary>
   
  ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
+
+ | Topic Name/Tutorial | Video | Code |
+ |---|---|---|
+ |[**🌐1-Transforming word vectors**](https://medium.com/@Coursesteach/natural-language-processing-part-33-transforming-word-vectors-37491a721ac7)| [**1**](https://drive.google.com/file/d/1bAP_tN6F23RBnlGv_WFWTdJ7sur9s1b-/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+|[**🌐2-Lab1 Rotation matrices R2**]()|--|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)|
+|[**🌐3-K-nearest neighbors**](https://medium.com/@Coursesteach/natural-language-processing-part-34-k-nearest-neighbors-03d4c44cc8b5)| [**1**](https://drive.google.com/file/d/1lIl19NUa-2zSzqYWNkkmsbUCAOuJ0Xs6/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  - [Lab:1-building_the_vocabulary](https://github.com/hussain0048/Natural-language-processing/blob/main/building_the_vocabulary.ipynb)
  - [Lecture notebook: Candidates from edits](https://github.com/hussain0048/Natural-language-processing/blob/main/candidates_from_edits.ipynb)
 
