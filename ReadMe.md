@@ -131,7 +131,7 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
 
 - Then in Github, in your cloned repository find the option to make a pull request 
 
-> print("Start contributing for ML-ProjectKart")
+> print("Start contributing for Natural Language Processing")
 
 ## ⚙️ Things to Note
 
