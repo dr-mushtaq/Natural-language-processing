@@ -106,8 +106,6 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
    |[**🌐7-Minimum edit distance Alogrithem 3**](https://medium.com/@Coursesteach/natural-language-processing-part-44-minimum-edit-distance-algorithm-ii-f05801c32d0f)| [**1**](https://drive.google.com/file/d/1wJFBJ1C51LoNkRj2LCg77WLEa5_lBHIy/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 |[**🌐2-Lab1 Rotation matri**]()|--|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab_Rotation_matrices_in_R2.ipynb)|
 |[**🌐3-K-nearest neighbors**](https://medium.com/@Coursesteach/natural-language-processing-part-34-k-nearest-neighbors-03d4c44cc8b5)| [**1**](https://drive.google.com/file/d/1lIl19NUa-2zSzqYWNkkmsbUCAOuJ0Xs6/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
- - [Lab:1-building_the_vocabulary](https://github.com/hussain0048/Natural-language-processing/blob/main/building_the_vocabulary.ipynb)
- - [Lecture notebook: Candidates from edits](https://github.com/hussain0048/Natural-language-processing/blob/main/candidates_from_edits.ipynb)
 
  ### Week 2-[**📚Chapter2:Part of Speech Tagging and Hidden Markov Models**]()
   - [Lecture Notebook - Working with text files](https://github.com/hussain0048/Natural-language-processing/blob/main/Lecture_Notebook_Working_with_text_files.ipynb)
