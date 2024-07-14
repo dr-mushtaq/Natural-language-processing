@@ -106,6 +106,8 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
    |[**🌐7-Minimum edit distance Alogrithem 3**](https://medium.com/@Coursesteach/natural-language-processing-part-44-minimum-edit-distance-algorithm-ii-f05801c32d0f)| [**1**](https://drive.google.com/file/d/1wJFBJ1C51LoNkRj2LCg77WLEa5_lBHIy/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 
  ### Week 2-[**📚Chapter2:Part of Speech Tagging and Hidden Markov Models**]()
+  | Topic Name/Tutorial | Video | Code |
+ |---|---|---|
   |[**🌐1-Part of Speech Tagging**](https://medium.com/@Coursesteach/natural-language-processing-part-45-part-of-speech-tagging-ce24d81c0aa4)| [**1**](https://drive.google.com/file/d/14onPuTeIqV_lqjWND-TS75bU_m-QYsJB/view)[-2](https://www.youtube.com/watch?v=QYzTTFxcc9I)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
   
   - [Lecture Notebook - Working with text files](https://github.com/hussain0048/Natural-language-processing/blob/main/Lecture_Notebook_Working_with_text_files.ipynb)
