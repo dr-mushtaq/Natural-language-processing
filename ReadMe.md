@@ -17,7 +17,7 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
 
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/company/90909828/admin/feed/posts/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CourseTeach)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coursesteach.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>]( 0000-0002-7238-7924)
 <details> 
-<summary> <h2> 📕Course 01 - 📚Classification and Vector Spaces </h2> </summary>
+<summary> <h2> 📕Course 01 -Classification and Vector Spaces </h2> </summary>
 
 ### Week 0-**📚Chapter 1:Introduction**
 | Topic Name/Tutorial | Video | Code |
