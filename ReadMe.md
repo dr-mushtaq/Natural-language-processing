@@ -1,6 +1,6 @@
 ## **Welcome to Natural-Language Processing 👋🛒**
 <p align="center">
-<img src="https://github.com/hussain0048/Natural-language-processing/blob/main/NLP1.png"></a>
+<img src="https://github.com/hussain0048/Natural-language-processing/blob/main/CoursesTeach.jpg"></a>
 </p>
 
 Welcome to the ultimate destination for Natural Language Processing enthusiasts - an exhaustive A-Z guide packed with implementations of algorithms, statistical methods, and cutting-edge techniques, all meticulously crafted in Python.
