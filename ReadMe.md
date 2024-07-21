@@ -109,6 +109,8 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
   | Topic Name/Tutorial | Video | Code |
  |---|---|---|
   |[**🌐1-Part of Speech Tagging**](https://medium.com/@Coursesteach/natural-language-processing-part-45-part-of-speech-tagging-ce24d81c0aa4)| [**1**](https://drive.google.com/file/d/14onPuTeIqV_lqjWND-TS75bU_m-QYsJB/view)[-2](https://www.youtube.com/watch?v=QYzTTFxcc9I)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+   |[**🌐2-Markov Chains**](https://medium.com/@Coursesteach/natural-language-processing-part-46-markov-chains-2e6987d0fe40)| [**1**](https://drive.google.com/file/d/1QnOiyWWXM45E8vAS3b43hH8a5u2WbNfh/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+  
   
   - [Lecture Notebook - Working with text files](https://github.com/hussain0048/Natural-language-processing/blob/main/Lecture_Notebook_Working_with_text_files.ipynb)
   - [Lecture Notebook - Working with tags and Numpy]()
