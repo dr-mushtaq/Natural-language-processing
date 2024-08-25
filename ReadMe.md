@@ -12,6 +12,9 @@ From classic algorithms to state-of-the-art models, we've got you covered with c
 
 Star this repository if you find it as invaluable to your NLP endeavors as we do. Together, let's push the boundaries of Natural Language Processing and unleash its full potential. ⭐"
 
+ Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
+
+
 ## **📬 Contact**
    
    If you want to contact me, you can reach me through social handles.
