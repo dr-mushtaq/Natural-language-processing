@@ -129,11 +129,11 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
 |[**🌐9-Lecture Notebook - Working with text file**](https://medium.com/@Coursesteach/natural-language-processing-part-51-the-viterbi-algorithm-cd5a00149e9b)|--|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lecture_Notebook_Working_with_text_files.ipynb)|
 |[**🌐10-Assignment: Part of Speech Tagging**](https://medium.com/@Coursesteach/natural-language-processing-part-51-the-viterbi-algorithm-cd5a00149e9b)|--|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)|
 
- ### Week 1-[**📚Chapter3:Autocomplete and Language models**]()
+ ### Week 3-[**📚Chapter3:Autocomplete and Language models**]()
 
  | Topic Name/Tutorial | Video | Code |
  |---|---|---|
- |[**🌐1-Overview**](https://medium.com/@Coursesteach/natural-language-processing-part-33-transforming-word-vectors-37491a721ac7)| [**1**](https://drive.google.com/file/d/1n_AX9UaW-8T97jucHEr0Ge9sGJjTyhEG/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |[**🌐1-N-Grams Overview**](https://medium.com/@Coursesteach/natural-language-processing-part-52-n-grams-overview-1e99325146da)| [**1**](https://drive.google.com/file/d/1rMzB-4mLRMyuMubgP8PUfRrkwiVH_Fdd/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 </details>
 
 <details> 
