@@ -127,10 +127,7 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
 |[**🌐7-The Viterbi Algorithm**](https://medium.com/@Coursesteach/natural-language-processing-part-51-the-viterbi-algorithm-cd5a00149e9b)| [**1**](https://drive.google.com/file/d/17G8fWiQ0ZaJoyiNfFaXlGTykGnzpcnty/view)[-2](https://www.youtube.com/watch?v=IqXdjdOgXPM)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 |[**🌐8-Viterbi: Initialization,Forward Pass,Backward Pass**](https://medium.com/@Coursesteach/natural-language-processing-part-51-viterbi-initialization-8938adc12bc0)| [**1**](https://drive.google.com/file/d/1HDV28as1FKFpsZuKwqW_Q8L0TX6Q9Cpf/view)[-2](https://drive.google.com/file/d/13xxyhCg-DVgGCS_z7mk2sU_WPDBhe4rD/view)[-3](https://drive.google.com/file/d/1DbChUznF2FSeiDUueYaJY82chS6X30SY/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 |[**🌐9-Lecture Notebook - Working with text file**](https://medium.com/@Coursesteach/natural-language-processing-part-51-the-viterbi-algorithm-cd5a00149e9b)|--|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lecture_Notebook_Working_with_text_files.ipynb)|
-  
-  - [Lecture Notebook - Working with tags and Numpy]()
-  - [**Assignment: Part of Speech Tagging**](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)
-  - [Assignment 2: Parts-of-Speech Tagging (POS)](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)
+|[**🌐10-Assignment: Part of Speech Tagging**](https://medium.com/@Coursesteach/natural-language-processing-part-51-the-viterbi-algorithm-cd5a00149e9b)|--|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/C2_W2_Assignment_(1).ipynb)|
 </details>
 
 <details> 
