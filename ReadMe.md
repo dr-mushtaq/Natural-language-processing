@@ -31,7 +31,7 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
 ### Week 0-**📚Chapter 1:Introduction**
 | Topic Name/Tutorial | Video | Code |
 |---|---|---|
-|[**🌐1-What is Natural Language Processing (NLP)**](https://medium.com/@Coursesteach/natural-language-processing-part-1-5727b4efc8b4)|[1](https://www.youtube.com/watch?v=j86dP_05_o0)|---|
+|[**🌐1-What is Natural Language Processing (NLP)⭐️**](https://medium.com/@Coursesteach/natural-language-processing-part-1-5727b4efc8b4)|[1](https://www.youtube.com/watch?v=j86dP_05_o0)|---|
 | [**🌐2- Natural Language Processing Tasks and Applications**](https://medium.com/@Coursesteach/natural-language-processing-part-2-c78237784247) | [1](https://www.youtube.com/watch?v=j86dP_05_o0)| Content 3 |
 | [**🌐3- Best Free Resources to Learn NLP-Tutorial**](https://medium.com/@Coursesteach/best-free-resources-to-learn-nlp-d7b6be97ba10) | Content 5 | Content 6 |
  
