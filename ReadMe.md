@@ -143,6 +143,11 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
    |**🌐7-Lecture notebook:  Building the language model**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Natural-language-processing/blob/main/building_the_language_model.ipynb)|
    |[**🌐8-Out of Vocabulary Words⭐️**](https://medium.com/@Coursesteach/how-to-handle-unknown-words-in-language-models-a-step-by-step-guide-nlp-part-57-3139c08e996c)| [**1**](https://drive.google.com/file/d/10k4lM0sBuYWeoCrRQXzs8B_M4a2BdYqF/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)| 
    |[**🌐9-Smoothing⭐️**](https://medium.com/@Coursesteach/how-smoothing-and-backoff-improve-n-gram-language-models-nlp-part-57-7ebaf8d6b75a)| [**1**](https://drive.google.com/file/d/1iaWqC9pMF648dWaR8F56_fpy3DbbQeoS/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)| 
+   
+  ### Week 3-[**📚Chapter4:Word embedding with neural network**]()
+ | Topic Name/Tutorial | Video | Code |
+ |---|---|---|
+ |[**🌐1-Basic Word Representations**](https://medium.com/@Coursesteach/one-hot-vectors-explained-simplifying-word-representation-in-nlp-part-58-7855fe35dd5b)| [**1**](https://drive.google.com/file/d/1D-DiE4vlZgulAoh5Ygoy4O1s8LZezJju/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 </details>
 
 <details> 
