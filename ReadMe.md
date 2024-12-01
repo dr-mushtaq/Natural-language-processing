@@ -148,8 +148,8 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
  | Topic Name/Tutorial | Video | Code |
  |---|---|---|
  |[**🌐1-Basic Word Representations⭐️**](https://medium.com/@Coursesteach/one-hot-vectors-explained-simplifying-word-representation-in-nlp-part-58-7855fe35dd5b)| [**1**](https://drive.google.com/file/d/1D-DiE4vlZgulAoh5Ygoy4O1s8LZezJju/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+  |[**🌐2-Word Embedding⭐️**](https://medium.com/@Coursesteach/from-words-to-vectors-understanding-word-embeddings-in-nlp-part-59-d80d0d470120)| [**1**](https://drive.google.com/file/d/1y149H5Tch-y0aq3Ro2lPVuC0YX-HZ_S9/view)[-2](https://www.youtube.com/watch?v=IebL0RQF5lg)[-3](https://www.youtube.com/watch?v=Do8cVbx-HOs)[-4](https://www.youtube.com/watch?v=wgfSDrqYMJ4)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 </details>
-
 <details> 
 <summary> <h2>Course 03 - 📚Building Chatbots in Python </h2> </summary>
  
