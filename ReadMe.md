@@ -32,8 +32,8 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
 | Topic Name/Tutorial | Video | Code |
 |---|---|---|
 |[**🌐1-What is Natural Language Processing (NLP)⭐️**](https://medium.com/@Coursesteach/natural-language-processing-part-1-5727b4efc8b4)[-Substack Link](https://substack.com/home/post/p-155741084?source=queue&autoPlay=false)|[1](https://www.youtube.com/watch?v=j86dP_05_o0)|---|
-| [**🌐2- Natural Language Processing Tasks and Applications⭐️**](https://medium.com/@Coursesteach/natural-language-processing-part-2-c78237784247) | [1](https://www.youtube.com/watch?v=j86dP_05_o0)| Content 3 |
-| [**🌐3- Best Free Resources to Learn NLP-Tutorial⭐️**](https://medium.com/@Coursesteach/best-free-resources-to-learn-nlp-d7b6be97ba10) | Content 5 | Content 6 |
+| [**🌐2- Natural Language Processing Tasks and Applications⭐️**](https://mushtaqmsit.substack.com/p/natural-language-processing-for-beginners) | [1](https://www.youtube.com/watch?v=j86dP_05_o0)| Content 3 |
+| [**🌐3- Best Free Resources to Learn NLP-Tutorial⭐️**](https://mushtaqmsit.substack.com/p/top-free-nlp-learning-resources-your) | Content 5 | Content 6 |
  
 ### Week 1-**📚Chapter 2:Sentiment Analysis (logistic Regression)**
 | Topic Name/Tutorial | Video | Code |
