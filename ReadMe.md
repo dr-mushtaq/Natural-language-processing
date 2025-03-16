@@ -170,6 +170,40 @@ Star this repository if you find it as invaluable to your NLP endeavors as we do
   - [**Building Chatbots in Python**](https://github.com/hussain0048/Natural-language-processing/blob/main/Chatbot_using_python.ipynb)
 </details>
 
+<details> 
+<summary> <h2>📕 Natural-Language Processing Resources </h2> </summary>
+
+## 👁️ Chapter1: - **Free Courses**
+| Title/link| Description | Reading Status |
+|---|---|---|
+|[**🌐1- Deep Learning for Computer Vision**](https://www.youtube.com/watch?v=0nqvO3AM2Vw&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=3?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|by Michigan Online,Youtube| Pending|
+|[**🌐2- Introduction of Computer Science**](https://www.udacity.com/enrollment/ud810)|It is free course and it contain notes and video| Inprogress|
+## 👁️ Chapter2: - **Important Website**
+| Title/link| Description | Code |
+|---|---|---|
+|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+
+## 👁️ Chapter3: - **Important Social medica Groups**
+| Title/link| Description | Code |
+|---|---|---|
+|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+
+## 👁️ Chapter4: - **Free Books**
+| Title/link| Description | Code |
+|---|---|---|
+|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+
+## 👁️ Chapter5: - **Github Repository**
+| Title/link| Description | Status |
+|---|---|---|
+|[**🌐1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|It is Videos and github| Pending|
+
+## 👁️ Chapter1: - **Important Library and Packages**
+| Title/link| Description | Code |
+|---|---|---|
+|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+</details>
+
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
 
 - Fork the repository
