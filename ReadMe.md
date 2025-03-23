@@ -24,7 +24,7 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
 👩‍💻 Explore and Learn from structured lessons
 
-👩‍💻 Enhance  the current blog or code or write blog on new topic
+🔧 Enhance the current blog or code, or write a blog on a new topic
 
 🔧 Implement & Experiment with provided code
 
