@@ -18,6 +18,22 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
 4. 🔥 AI-Powered Course: Stay ahead with industry-relevant techniques like transformers, BERT, GPT, and more.
 
+## **💡 How to Participate?**
+🚀 Fork & Star this repository
+
+👩‍💻 Explore and Learn from structured lessons
+
+👩‍💻 Enhance  the current blog or code or write blog on new topic
+
+🔧 Implement & Experiment with provided code
+
+🤝 Collaborate with fellow NLP enthusiasts
+
+📌 Contribute your own implementations & projects
+
+📌 Share Good new Blog or Video or Course , Github Repistory, website etc
+
+💡 Start your NLP journey today!
 
 ## **📬Contact**
    
