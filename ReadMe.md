@@ -231,8 +231,8 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ## 👁️ Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
 |---|---|---|
-|[**🌐1-Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing)|by Eddy Shyu,Cousera,Goog| InProgress|
-|[**🌐2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
+|[**✅ 1-Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing)|by Eddy Shyu,Cousera,Goog| InProgress|
+|[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
@@ -251,10 +251,10 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ## 👁️ Chapter5: - **Github Repository**
 | Title/link| Description | Status |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|It is Videos and github| Pending|
-|[**🌐2- ML YouTube Courses**](https://github.com/dair-ai/ML-YouTube-Courses?fbclid=IwAR26ZRVJyPC6_fFmcOy5IA-u4relyRSAxM5N-pleAD59VwrsSvOX8MsEpaQ)|Github repisotry contain couress| Pending|
-|[**🌐2- ml-roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics)|Github repisotry contain couress| Pending|
-|[**🌐2-courses & resources**](https://github.com/SkalskiP/courses)|It is course of all AI domain| Pending|
+|[**✅ 1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|It is Videos and github| Pending|
+|[**✅ 2- ML YouTube Courses**](https://github.com/dair-ai/ML-YouTube-Courses?fbclid=IwAR26ZRVJyPC6_fFmcOy5IA-u4relyRSAxM5N-pleAD59VwrsSvOX8MsEpaQ)|Github repisotry contain couress| Pending|
+|[**✅ 3- ml-roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics)|Github repisotry contain couress| Pending|
+|[**✅ 4-courses & resources**](https://github.com/SkalskiP/courses)|It is course of all AI domain| Pending|
 
 ## 👁️ Chapter1: - **Important Library and Packages**
 | Title/link| Description | Code |
