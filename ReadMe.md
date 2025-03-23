@@ -240,17 +240,17 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
 
-- Fork the repository
+- 🔹 Fork the repository and submit Pull Requests (PRs) for changes.
 
-- Clone your forked repository using terminal or gitbash.
+-  🔹Clone your forked repository using terminal or gitbash.
 
-- Make changes to the cloned repository
+-  🔹Make changes to the cloned repository
 
-- Add, Commit and Push
-
-- Then in Github, in your cloned repository find the option to make a pull request 
-
-> print("Start contributing for Natural Language Processing")
+-  🔹Add, Commit and Push
+-  🔹 Reviewers will approve or request changes before merging.
+-  🔹Then in Github, in your cloned repository find the option to make a pull request
+-  🔹 Nobody can push directly to main (unless explicitly allowed in settings).
+>  🔹print("Start contributing for Natural Language Processing")
 
 ## ⚙️ Things to Note
 
@@ -267,13 +267,6 @@ Explore cutting-edge tools and Python libraries, access insightful slides and so
 * [Natural Language Processing with Probabilistic models Course](https://coursesteach.com/enrol/index.php?id=187)
 * [Natural Language Processing course](https://coursesteach.com/enrol/index.php?id=46)
 
-## 🔍 How to Contribute
-
-🔹 They will need to fork the repository and submit Pull Requests (PRs) for changes.
-
-🔹 You (or other reviewers) will approve or request changes before merging.
-
-🔹 Nobody can push directly to main (unless explicitly allowed in settings).
 
 
 ## **✨Top Contributors**
