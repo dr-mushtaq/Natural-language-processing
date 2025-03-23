@@ -19,6 +19,7 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 4. 🔥 AI-Powered Course: Stay ahead with industry-relevant techniques like transformers, BERT, GPT, and more.
 
 ## **💡 How to Participate?**
+
 🚀 Fork & Star this repository
 
 👩‍💻 Explore and Learn from structured lessons
@@ -35,16 +36,18 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
 💡 Start your NLP journey today!
 
-## **📬Contact**
-   
-   If you want to contact me, you can reach me through social handles.
-   
-[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@coursesteach-mv5si/videos)
-[![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://medium.com/@Coursesteach)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/90909828/admin/dashboard/)
-[![](https://img.shields.io/badge/Twitter-darkgreen?&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/Mushtaq03361498)
-[![](https://img.shields.io/badge/whatsapp-32012F?style=plastic&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
-[![](https://img.shields.io/badge/Kaggle-darkblue?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/organizations/courseteach/invite/4c839a825abc44c9a1aebd8e9cc8d94c)
+## **🌍 Join Our Community**
+
+🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
+
+🔗 [**SubStack Blogs**](https://mushtaqmsit.substack.com/publish/home?utm_source=substack&utm_content=dashboard_pub_switcher)
+
+🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
+
+🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
+
+📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
+
 <details> 
 <summary> <h2> 📕Course 01 -Classification and Vector Spaces </h2> </summary>
 
