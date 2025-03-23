@@ -48,6 +48,13 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
 📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
 
+## **🚀 Let's Build NLP Together!**
+
+Join us in creating, sharing, and implementing NLP solutions. Your contributions will help advance open-source AI education globally. 💡🤖
+
+🔗 Start Learning NLP Now!
+
+
 <details> 
 <summary> <h2> 📕Course 01 -Classification and Vector Spaces </h2> </summary>
 
