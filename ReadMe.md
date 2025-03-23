@@ -54,6 +54,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 
 🔗 Start Learning NLP Now!
 
+## **📌 Course Modules & Resources**
 
 <details> 
 <summary> <h2> 📕Course 01 -Classification and Vector Spaces </h2> </summary>
