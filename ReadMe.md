@@ -32,7 +32,7 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
 📌 Contribute your own implementations & projects
 
-📌 Share Good new Blog or Video or Course , Github Repistory, website etc
+📌 Share valuable blogs, videos, courses, GitHub repositories, and research websites
 
 💡 Start your NLP journey today!
 
