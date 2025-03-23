@@ -267,6 +267,14 @@ Explore cutting-edge tools and Python libraries, access insightful slides and so
 * [Natural Language Processing with Probabilistic models Course](https://coursesteach.com/enrol/index.php?id=187)
 * [Natural Language Processing course](https://coursesteach.com/enrol/index.php?id=46)
 
+## 🔍 How to Contribute
+
+🔹 They will need to fork the repository and submit Pull Requests (PRs) for changes.
+
+🔹 You (or other reviewers) will approve or request changes before merging.
+
+🔹 Nobody can push directly to main (unless explicitly allowed in settings).
+
 
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you know of an amazing NLP course that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
