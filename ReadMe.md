@@ -194,6 +194,19 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
    |**🌐Lecture Notebook - Intro to CBOW model⭐️**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Natural-language-processing/blob/main/NLP_C2_W4_lecture_notebook_model_architecture.ipynb)|
    |**🌐13-Training a CBOW Model-Cost Function⭐️**| [**1**](https://drive.google.com/file/d/1SqFmDTy1zsDbB_-LGnGnRNCfTZNy2Rt1/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 </details>
+
+<details> 
+<summary> <h2>📕Course 03 -Natural Language Processing with Sequence Models</h2> </summary>
+  
+ ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
+
+ | Topic Name/Tutorial | Video | Code |
+ |---|---|---|
+ |[**🌐1-Overview**](https://medium.com/@Coursesteach/natural-language-processing-part-33-transforming-word-vectors-37491a721ac7)| [**1**](https://drive.google.com/file/d/1n_AX9UaW-8T97jucHEr0Ge9sGJjTyhEG/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+
+ </details>
+
+
 <details> 
 <summary> <h2> 📕Course 03 -Building Chatbots in Python </h2> </summary>
  
