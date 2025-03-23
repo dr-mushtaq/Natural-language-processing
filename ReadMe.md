@@ -195,7 +195,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
    |**🌐13-Training a CBOW Model-Cost Function⭐️**| [**1**](https://drive.google.com/file/d/1SqFmDTy1zsDbB_-LGnGnRNCfTZNy2Rt1/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 </details>
 <details> 
-<summary> <h2>Course 03 - 📕Building Chatbots in Python </h2> </summary>
+<summary> <h2> 📕Course 03 -Building Chatbots in Python </h2> </summary>
  
 ## Week - [**Building Chatbots in Python**]()
   - [**Building Chatbots in Python**](https://github.com/hussain0048/Natural-language-processing/blob/main/Chatbot_using_python.ipynb)
