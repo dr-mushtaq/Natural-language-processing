@@ -14,7 +14,7 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
 2. 🛠 Practical Implementation: Each topic includes hands-on coding exercises, Jupyter notebooks, and real-world projects.
 
-3. 🤝 Collaborative Learning: Work with students and researchers worldwide, contribute to projects, and enhance your skills.
+3. 🤝 Collaborative Learning: ork with students and researchers worldwide through GitHub discussions, issue tracking, and dedicated forums..
 
 4. 🔥 AI-Powered Course: Stay ahead with industry-relevant techniques like transformers, BERT, GPT, and more.
 
