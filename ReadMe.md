@@ -256,6 +256,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |[**✅ 2- ML YouTube Courses**](https://github.com/dair-ai/ML-YouTube-Courses?fbclid=IwAR26ZRVJyPC6_fFmcOy5IA-u4relyRSAxM5N-pleAD59VwrsSvOX8MsEpaQ)|Github repisotry contain couress| Pending|
 |[**✅ 3- ml-roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics)|Github repisotry contain couress| Pending|
 |[**✅ 4-courses & resources**](https://github.com/SkalskiP/courses)|It is course of all AI domain| Pending|
+|[**✅ 5-GenAI Agents: Comprehensive Repository for Development and Implementation**](https://github.com/NirDiamant/GenAI_Agents)| collections of Generative AI (GenAI) agent tutorials and implementations | Pending|
 
 ## 👁️ Chapter1: - **Important Library and Packages**
 | Title/link| Description | Code |
