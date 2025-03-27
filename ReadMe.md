@@ -257,6 +257,8 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |[**✅ 3- ml-roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics)|Github repisotry contain couress| Pending|
 |[**✅ 4-courses & resources**](https://github.com/SkalskiP/courses)|It is course of all AI domain| Pending|
 |[**✅ 5-GenAI Agents: Comprehensive Repository for Development and Implementation**](https://github.com/NirDiamant/GenAI_Agents)| collections of Generative AI (GenAI) agent tutorials and implementations | Pending|
+|[**✅ 6-nlp-notebooks**](https://github.com/nlptown/nlp-notebooks/tree/master)| it implement nlp concept , it is by nlptown | Pending|
+
 
 ## 👁️ Chapter1: - **Important Library and Packages**
 | Title/link| Description | Code |
