@@ -259,6 +259,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |[**✅ 4-courses & resources**](https://github.com/SkalskiP/courses)|It is course of all AI domain| Pending|
 |[**✅ 5-GenAI Agents: Comprehensive Repository for Development and Implementation**](https://github.com/NirDiamant/GenAI_Agents)| collections of Generative AI (GenAI) agent tutorials and implementations | Pending|
 |[**✅ 6-nlp-notebooks**](https://github.com/nlptown/nlp-notebooks/tree/master)| it implement nlp concept , it is by nlptown | Pending|
+|[**✅ 7-NLP with Python**](https://github.com/susanli2016/NLP-with-Python/tree/master)| it implement nlp concept in python | Pending|
 
 
 ## 👁️ Chapter1: - **Important Library and Packages**
