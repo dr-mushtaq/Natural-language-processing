@@ -265,7 +265,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ## 👁️ Chapter1: - **Important Library and Packages**
 | Title/link| Description | Code |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**✅1- 10 Must-Know Python Libraries for LLMs in 2025**](https://machinelearningmastery.com/10-must-know-python-libraries-for-llms-in-2025/)|It is Videos and github|---|
 </details>
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
