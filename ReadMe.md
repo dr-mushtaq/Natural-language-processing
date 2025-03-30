@@ -40,7 +40,7 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-🔗 [**SubStack Blogs**](https://mushtaqmsit.substack.com/publish/home?utm_source=substack&utm_content=dashboard_pub_switcher)
+🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
 
 🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
 
