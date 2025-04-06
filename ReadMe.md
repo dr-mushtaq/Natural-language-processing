@@ -196,6 +196,8 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
    |**🌐14-Training a CBOW Model-Forward Propagation⭐️**| [**1**](https://drive.google.com/file/d/16eqk4Jrko4Zfezy4dtfK6YIG88S1tbQ1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
    |**🌐15-Training a CBOW Model-Backpropagation and Gradient Descent⭐️**| [**1**](https://drive.google.com/file/d/1iQIamGiy1Tk6TPg8ZX_HIyGYAbRzsjLe/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 </details>
+  |**🌐16-Lecture Notebook - Training the CBOW model⭐️**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Natural-language-processing/blob/main/NLP_C2_W4_lecture_notebook_model_training.ipynb)|
+</details>
 
 <details> 
 <summary> <h2>📕Course 03 -Natural Language Processing with Sequence Models</h2> </summary>
