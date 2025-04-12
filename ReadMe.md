@@ -8,15 +8,16 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
  Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
 
- ## **🎯 Why Join This Course?**
+## **🎯 Why Join This Course?**
  
-1.  📸 End-to-End Learning: Master the full spectrum of computer vision — from image basics and filters to deep learning, object detection, and segmentation.
+1.  📖 Comprehensive Learning: Covers all major NLP topics, from basics to cutting-edge deep learning techniques.
 
 2. 🛠 Practical Implementation: Each topic includes hands-on coding exercises, Jupyter notebooks, and real-world projects.
 
-3. 🌍 Collaborative Development: Join a global community of learners, developers, and researchers. Contribute on GitHub through pull requests, discussions, and issue tracking..
+3. 🤝 Collaborative Learning: ork with students and researchers worldwide through GitHub discussions, issue tracking, and dedicated forums..
 
-4. 🤖 Cutting-Edge Tech Stack: Stay at the forefront with tools like CNNs, YOLO, OpenCV, Vision Transformers, and more — all integrated with AI-powered workflows.
+4. 🔥 AI-Powered Course: Stay ahead with industry-relevant techniques like transformers, BERT, GPT, and more. Convert this for computer vision so that it attract contributor
+
 
 ## **💡 How to Participate?**
 
