@@ -68,6 +68,10 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 | [**✅3- Best Free Resources to Learn NLP-Tutorial⭐️**](https://mushtaqmsit.substack.com/p/top-free-nlp-learning-resources-your) | Content 5 | Content 6 |
  
 ### 🔹Week 1-**Chapter 2:Sentiment Analysis (logistic Regression)**
+### 📌 Supervised ML & Sentiment Analysis
+- Understand the difference between supervised and unsupervised learning.
+- Learn how sentiment classification works using labeled datasets.
+
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |
 |---|---|---|
 |**✅1- Preprocessing_Aassignment_1**| Content 2 |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Preprocessing_Aassignment_1.ipynb) |
