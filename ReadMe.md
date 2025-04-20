@@ -246,6 +246,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
 |[**✅ 3-Large Language Models for the General Audience**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 4-A Code-First Intro to Natural Language Processing**](https://github.com/fastai/course-nlp?tab=readme-ov-file)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅ 5-AI for Medicine Specialization**](https://www.coursera.org/specializations/ai-for-medicine)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
