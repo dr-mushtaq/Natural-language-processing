@@ -10,26 +10,6 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
  ## 📚 Table of Contents
 
-- [Why Join This Course?](#why-join-this-course)
-- [How to Participate?](#how-to-participate)
-- [Join Our Community](#join-our-community)
-- [Stay Updated with Weekly NLP Lessons!](#stay-updated-with-weekly-nlp-lessons)
-- [Let's Build NLP Together!](#lets-build-nlp-together)
-- [Course Modules & Resources](#course-modules--resources)
-  - [Course 01 – Classification and Vector Spaces](#course-01--classification-and-vector-spaces)
-  - [Course 02 – Natural Language Processing with Probabilistic Models](#course-02--natural-language-processing-with-probabilistic-models)
-  - [Course 03 – Natural Language Processing with Sequence Models](#course-03--natural-language-processing-with-sequence-models)
-  - [Course 04 – Natural Language Processing with Attention Models](#course-04--natural-language-processing-with-attention-models)
-  - [Course 05 – Building Chatbots in Python](#course-05--building-chatbots-in-python)
-- [Natural-Language Processing Resources](#natural-language-processing-resources)
-- [Workflow](#workflow)
-- [Things to Note](#things-to-note)
-- [Explore more](#explore-more)
-- [Top Contributors](#top-contributors)
-
-
- ## 📚 Table of Contents
-
 - [🎯 Why Join This Course?](#-why-join-this-course)
 - [💡 How to Participate?](#-how-to-participate)
 - [🌍 Join Our Community](#-join-our-community)
