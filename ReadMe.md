@@ -55,6 +55,16 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 
 🔗 Start Learning NLP Now!
 
+📬 Newsletter CTA Markdown Snippet
+
+## 📬 Stay Updated with Weekly NLP Lessons!
+
+Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
+**Join hundreds of NLP learners on Substack.**
+
+👉 [**Subscribe to Our NLP Newsletter**](https://substack.com/@coursesteach) ✨
+
+
 ## **📌 Course Modules & Resources**
 
 <details> 
