@@ -271,6 +271,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |[**✅ 6-nlp-notebooks**](https://github.com/nlptown/nlp-notebooks/tree/master)| it implement nlp concept , it is by nlptown | Pending|
 |[**✅ 7-NLP with Python**](https://github.com/susanli2016/NLP-with-Python/tree/master)| it implement nlp concept in python | Pending|
 |[**✅ 8-nlp-notebooks**](https://github.com/nlptown/nlp-notebooks/tree/master)| it implement nlp concept in python | Pending|
+|[**✅ 9-CS 4650 and 7650**](https://github.com/jacobeisenstein/gt-nlp-class/tree/master)|This course gives an overview of modern data-driven techniques for natural language processing. | Pending|
 
 
 
