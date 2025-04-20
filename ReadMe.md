@@ -202,6 +202,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
    |**🌐15-Training a CBOW Model-Backpropagation and Gradient Descent⭐️**| [**1**](https://drive.google.com/file/d/1iQIamGiy1Tk6TPg8ZX_HIyGYAbRzsjLe/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
   |**🌐16-Lecture Notebook - Training the CBOW model⭐️**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Natural-language-processing/blob/main/NLP_C2_W4_lecture_notebook_model_training.ipynb)|
   |**🌐17-Extracting Word Embedding Vectors⭐️**| [**1**](https://drive.google.com/drive/u/0/folders/1YWuBALjfT78rTWKzAoyviL1sOm6dS2yz)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+  |**🌐Lecture Notebook - Word Embeddings⭐️**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Natural-language-processing/blob/main/NLP_C2_W4_lecture_notebook_word_embeddings.ipynb)|
 </details>
 </details>
 
