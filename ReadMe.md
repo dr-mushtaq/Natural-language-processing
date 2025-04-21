@@ -312,10 +312,20 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 
 
-## 👁️ Chapter1: - **Important Library and Packages**
-| Title/link| Description | Code |
-|---|---|---|
-|[**✅1- 10 Must-Know Python Libraries for LLMs in 2025**](https://machinelearningmastery.com/10-must-know-python-libraries-for-llms-in-2025/)|It is Videos and github|---|
+## 👁️ Chapter1: - **🔍 General Tools and Chatbots**
+
+| Title/Link | Description |
+|---|---|
+| [**Theresanaiforthat**](https://theresanaiforthat.com/) | Directory of AI tools for every possible use case. |
+| [**ChatGPT**](https://chat.openai.com/) | Chatbot powered by OpenAI for general and professional use. |
+| [**Copilot**](https://copilot.microsoft.com/) | Microsoft's AI assistant integrated across their ecosystem. |
+| [**Poe**](https://poe.com/) | Multi-AI platform enabling access to various models. |
+| [**Groq**](https://groq.com/) | High-performance inference for LLMs. |
+| [**Hugging Face**](https://huggingface.co/) | Hub for AI models, datasets, and ML tools. |
+| [**Mistral Chat**](https://chat.mistral.ai/) | Chatbot powered by Mistral models. |
+| [**Pi (Inflection AI)**](https://heypi.com/) | Personalized AI chatbot assistant. |
+| [**DeepSeek Chat**](https://chat.deepseek.com/) | Open-source chat assistant by DeepSeek. |
+| [**Andi Search**](https://andisearch.com/) | AI-powered search engine with conversational answers. |
 </details>
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
