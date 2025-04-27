@@ -216,7 +216,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
    
   ### Week 3-[**📚Chapter4:Word embedding with neural network**]()
  | Topic Name/Tutorial | Video | Code |
- |---|---|---|
+ |--|---|---|
  |[**🌐1-Basic Word Representations⭐️**](https://medium.com/@Coursesteach/one-hot-vectors-explained-simplifying-word-representation-in-nlp-part-58-7855fe35dd5b)| [**1**](https://drive.google.com/file/d/1D-DiE4vlZgulAoh5Ygoy4O1s8LZezJju/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
   |[**🌐2-Word Embedding⭐️**](https://medium.com/@Coursesteach/from-words-to-vectors-understanding-word-embeddings-in-nlp-part-59-d80d0d470120)| [**1**](https://drive.google.com/file/d/1y149H5Tch-y0aq3Ro2lPVuC0YX-HZ_S9/view)[-2](https://www.youtube.com/watch?v=IebL0RQF5lg)[-3](https://www.youtube.com/watch?v=Do8cVbx-HOs)[-4](https://www.youtube.com/watch?v=wgfSDrqYMJ4)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
   |[**🌐3-How to Create Word Embeddings⭐️**](https://medium.com/@Coursesteach/learn-to-create-word-embeddings-tools-techniques-and-best-practices-natural-language-processing-8ca08a659ea3)| [**1**](https://drive.google.com/file/d/1Xqd96C6GcLSPEBGFVzxyBAd8MYWVGoPH/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
@@ -238,6 +238,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
   |**🌐17-Extracting Word Embedding Vectors⭐️**| [**1**](https://drive.google.com/drive/u/0/folders/1YWuBALjfT78rTWKzAoyviL1sOm6dS2yz)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
   |**🌐Lecture Notebook - Word Embeddings⭐️**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Natural-language-processing/blob/main/NLP_C2_W4_lecture_notebook_word_embeddings.ipynb)|
   |**🌐18-Evaluating Word Embeddings-Intrinsic Evaluation⭐️**| [**1**](https://drive.google.com/file/d/1zhHfayV14yxHkp6eeps-yaozupmFH810/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+  |**🌐19-Evaluating Word Embeddings-Extrinsic Evaluation⭐️**| [**1**](https://drive.google.com/drive/u/0/folders/1YWuBALjfT78rTWKzAoyviL1sOm6dS2yz)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 </details>
 </details>
 
