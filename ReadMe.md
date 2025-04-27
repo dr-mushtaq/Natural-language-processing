@@ -215,6 +215,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
    |[**🌐9-Smoothing⭐️**](https://medium.com/@Coursesteach/how-smoothing-and-backoff-improve-n-gram-language-models-nlp-part-57-7ebaf8d6b75a)| [**1**](https://drive.google.com/file/d/1iaWqC9pMF648dWaR8F56_fpy3DbbQeoS/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)| 
    
   ### Week 3-[**📚Chapter4:Word embedding with neural network**]()
+
+  📌 Learning Objectives or Outcomes
   
  1-  Understand the Fundamentals of Word Embeddings
  
