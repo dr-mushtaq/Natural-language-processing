@@ -215,6 +215,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
    |[**🌐9-Smoothing⭐️**](https://medium.com/@Coursesteach/how-smoothing-and-backoff-improve-n-gram-language-models-nlp-part-57-7ebaf8d6b75a)| [**1**](https://drive.google.com/file/d/1iaWqC9pMF648dWaR8F56_fpy3DbbQeoS/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)| 
    
   ### Week 3-[**📚Chapter4:Word embedding with neural network**]()
+  Understand the Fundamentals of Word Embeddings
+1- Master the CBOW Model
+
+2- Evaluate Word Embeddings Effectively
+
+3- Apply Practical Skills in Word Embedding Tasks
+
  | Topic Name/Tutorial | Video | Code |
  |--|---|---|
  |[**🌐1-Basic Word Representations⭐️**](https://medium.com/@Coursesteach/one-hot-vectors-explained-simplifying-word-representation-in-nlp-part-58-7855fe35dd5b)| [**1**](https://drive.google.com/file/d/1D-DiE4vlZgulAoh5Ygoy4O1s8LZezJju/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
