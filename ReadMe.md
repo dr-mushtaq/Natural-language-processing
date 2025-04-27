@@ -309,6 +309,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 7-NLP with Python**](https://github.com/susanli2016/NLP-with-Python/tree/master)| it implement nlp concept in python | Pending|
 |[**✅ 8-nlp-notebooks**](https://github.com/nlptown/nlp-notebooks/tree/master)| it implement nlp concept in python | Pending|
 |[**✅ 9-CS 4650 and 7650**](https://github.com/jacobeisenstein/gt-nlp-class/tree/master)|This course gives an overview of modern data-driven techniques for natural language processing. | Pending|
+|[**✅ 10-LLM course**](https://github.com/mlabonne/llm-course)|This course gives an overview of modern data-driven techniques for natural language processing. | Pending|
 
 
 
