@@ -250,6 +250,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
   |**🌐Lecture Notebook - Word Embeddings⭐️**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Natural-language-processing/blob/main/NLP_C2_W4_lecture_notebook_word_embeddings.ipynb)|
   |**🌐18-Evaluating Word Embeddings-Intrinsic Evaluation⭐️**| [**1**](https://drive.google.com/file/d/1zhHfayV14yxHkp6eeps-yaozupmFH810/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
   |**🌐19-Evaluating Word Embeddings-Extrinsic Evaluation⭐️**| [**1**](https://drive.google.com/drive/u/0/folders/1YWuBALjfT78rTWKzAoyviL1sOm6dS2yz)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+  |**🌐Lecture notebook: Word embeddings step by step⭐️**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Natural-language-processing/blob/main/NLP_C2_W4_lecture_notebook_word_embeddings.ipynb)|
 </details>
 </details>
 
