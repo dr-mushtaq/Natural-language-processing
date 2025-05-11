@@ -263,6 +263,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  |---|---|---|
  |**🌐1-Course 3 Introduction**| [**1**](https://drive.google.com/file/d/1wp90yB137CPzX1NLcob47eGI5uPq_a1S/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐2-Neural Networks for Sentiment Analysis**| [**1**](https://drive.google.com/file/d/1DP6q4xQBpGaVJZi3C-Oe1bD0oyoCl-2T/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |**🌐3-Dense Layers and ReLU**| [**1**](https://drive.google.com/file/d/11enyL7gESQESAt3jV1G27bgomJ7V0rKz/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 
  </details>
 
