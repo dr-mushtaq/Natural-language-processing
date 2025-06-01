@@ -266,6 +266,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  |**🌐3-Dense Layers and ReLU**| [**1**](https://drive.google.com/file/d/11enyL7gESQESAt3jV1G27bgomJ7V0rKz/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐4-Embedding and Mean Layers**| [**1**](https://drive.google.com/file/d/1tOrqXYO5dFrEum5zRhn-z0Oat0CUCPZX/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐5-Traditional Language models**| [**1**](https://drive.google.com/file/d/1HsXNK7vg-N-dxKKl5cZRLC-6ypTP-zTO/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |**🌐6-Recurrent Neural Networks**| [**1**](https://drive.google.com/file/d/1x0UjEXUdYOuA0biwC3CZv5O343dQGIjT/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+
 
  </details>
 
