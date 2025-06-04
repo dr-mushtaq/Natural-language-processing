@@ -302,6 +302,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 4-A Code-First Intro to Natural Language Processing**](https://github.com/fastai/course-nlp?tab=readme-ov-file)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 5-AI for Medicine Specialization**](https://www.coursera.org/specializations/ai-for-medicine)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 6-Fundamentals of AI Agents Using RAG and LangChain by IBM**](https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain)|Learn retrieval-augmented generation (RAG) applications and processes.| Pending|
+|[**✅ 7-Large Language Model Agents**](https://llmagents-learning.org/f24)|Covers fundamental LLM agent concepts and required abilities.| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
