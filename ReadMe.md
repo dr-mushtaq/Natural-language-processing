@@ -303,6 +303,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 5-AI for Medicine Specialization**](https://www.coursera.org/specializations/ai-for-medicine)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 6-Fundamentals of AI Agents Using RAG and LangChain by IBM**](https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain)|Learn retrieval-augmented generation (RAG) applications and processes.| Pending|
 |[**✅ 7-Large Language Model Agents**](https://llmagents-learning.org/f24)|Covers fundamental LLM agent concepts and required abilities.| Pending|
+|[**✅ 8-AI Agentic Design Patterns with AutoGen**](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)|Learn to make and customize multi-agent systems using AutoGen..| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
