@@ -338,6 +338,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 9-CS 4650 and 7650**](https://github.com/jacobeisenstein/gt-nlp-class/tree/master)|This course gives an overview of modern data-driven techniques for natural language processing. | Pending|
 |[**✅ 10-LLM course**](https://github.com/mlabonne/llm-course)|This course gives an overview of modern data-driven techniques for natural language processing. | Pending|
 |[**✅ 11-Awesome-LLM**](https://github.com/Hannibal046/Awesome-LLM)| It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM. | Pending|
+|[**✅ 11-LLM-Agent-Paper-List**](https://github.com/WooooDyy/LLM-Agent-Paper-List)| This repository is a treasure trove of research papers on LLM-based agents.. | Pending|
 
 
 
