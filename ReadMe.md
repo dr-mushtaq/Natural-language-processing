@@ -305,6 +305,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 7-Large Language Model Agents**](https://llmagents-learning.org/f24)|Covers fundamental LLM agent concepts and required abilities.| Pending|
 |[**✅ 8-AI Agentic Design Patterns with AutoGen**](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)|Learn to make and customize multi-agent systems using AutoGen..| Pending|
 |[**✅ 9-AI Agents in LangGraph by deeplearning.ai**](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)|Build an agent from scratch, then rebuild it using LangGraph.by Harrison Chase, Rotem Weiss| Pending|
+|[**✅ 10-Serverless Agentic Workflows with Amazon Bedrockby deeplearning.ai**](https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/)|Build and deploy serverless agentic applications.by Mike Chambers| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
