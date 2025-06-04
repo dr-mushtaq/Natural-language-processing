@@ -307,6 +307,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 9-AI Agents in LangGraph by deeplearning.ai**](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)|Build an agent from scratch, then rebuild it using LangGraph.by Harrison Chase, Rotem Weiss| Pending|
 |[**✅ 10-Serverless Agentic Workflows with Amazon Bedrockby deeplearning.ai**](https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/)|Build and deploy serverless agentic applications.by Mike Chambers| Pending|
 |[**✅ 11-Multi-AI Agent Systems with CrewAI deeplearning.ai**](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)|Learn principles of designing effective AI agents and organizing agent teams..by João Moura| Pending|
+|[**✅ 12-Smol Agents: Build & Deploy by Hugging Face**](https://huggingface.co/learn/agents-course/en/unit0/introduction)|Study AI agents in theory, design, and practical application| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
