@@ -340,6 +340,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 11-Awesome-LLM**](https://github.com/Hannibal046/Awesome-LLM)| It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM. | Pending|
 |[**✅ 11-LLM-Agent-Paper-List**](https://github.com/WooooDyy/LLM-Agent-Paper-List)| This repository is a treasure trove of research papers on LLM-based agents.. | Pending|
 |[**✅ 12-Masterclass: Large Language Models for Data Science**](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science)| This repository focuses on integrating LLMs into workflows. It provides an ebook-style introduction to various topics such as prompt engineering, local LLMs, retrieval-augmented generation (RAG) problems, and more | Pending|
+|[**✅ 13-Awesome LLM Apps**](https://github.com/Shubhamsaboo/awesome-llm-apps)| A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.| Pending|
+
 
 
 
