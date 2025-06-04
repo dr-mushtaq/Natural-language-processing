@@ -294,9 +294,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <summary> <h2>📕 Natural-Language Processing Resources </h2> </summary>
 
 ## 👁️ Chapter1: - **Free Courses**
-| Title/link| Description | Reading Status |
-|---|---|---|
-|[**✅ 1-Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing)|by Eddy Shyu,Cousera,Goog| InProgress|
+| Title/link| Description | Reading Status |Knlowdgef Level|FeedBack|
+|---|---|---|---|---|
+|[**✅ 1-Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing)|by Eddy Shyu,Cousera,Goog| InProgress|Beginer|Good|
 |[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
 |[**✅ 3-Large Language Models for the General Audience**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 4-A Code-First Intro to Natural Language Processing**](https://github.com/fastai/course-nlp?tab=readme-ov-file)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
@@ -308,6 +308,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 10-Serverless Agentic Workflows with Amazon Bedrockby deeplearning.ai**](https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/)|Build and deploy serverless agentic applications.by Mike Chambers| Pending|
 |[**✅ 11-Multi-AI Agent Systems with CrewAI deeplearning.ai**](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)|Learn principles of designing effective AI agents and organizing agent teams..by João Moura| Pending|
 |[**✅ 12-Smol Agents: Build & Deploy by Hugging Face**](https://huggingface.co/learn/agents-course/en/unit0/introduction)|Study AI agents in theory, design, and practical application| Pending|
+|[**✅ 13-Advanced Large Language Model Agents by**](https://rdi.berkeley.edu/adv-llm-agents/sp25)|Learn advanced topics like complex reasoning and planning for LLM agents. by Xinyun Chen| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
