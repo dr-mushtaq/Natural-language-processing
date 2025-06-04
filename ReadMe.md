@@ -339,6 +339,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 10-LLM course**](https://github.com/mlabonne/llm-course)|This course gives an overview of modern data-driven techniques for natural language processing. | Pending|
 |[**✅ 11-Awesome-LLM**](https://github.com/Hannibal046/Awesome-LLM)| It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM. | Pending|
 |[**✅ 11-LLM-Agent-Paper-List**](https://github.com/WooooDyy/LLM-Agent-Paper-List)| This repository is a treasure trove of research papers on LLM-based agents.. | Pending|
+|[**✅ 12-Masterclass: Large Language Models for Data Science**](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science)| This repository focuses on integrating LLMs into workflows. It provides an ebook-style introduction to various topics such as prompt engineering, local LLMs, retrieval-augmented generation (RAG) problems, and more | Pending|
 
 
 
