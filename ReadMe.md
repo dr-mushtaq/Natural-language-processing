@@ -301,6 +301,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 3-Large Language Models for the General Audience**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 4-A Code-First Intro to Natural Language Processing**](https://github.com/fastai/course-nlp?tab=readme-ov-file)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 5-AI for Medicine Specialization**](https://www.coursera.org/specializations/ai-for-medicine)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅ 6-Fundamentals of AI Agents Using RAG and LangChain by IBM**](https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain)|Learn retrieval-augmented generation (RAG) applications and processes.| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
