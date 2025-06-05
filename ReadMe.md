@@ -341,6 +341,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 11-LLM-Agent-Paper-List**](https://github.com/WooooDyy/LLM-Agent-Paper-List)| This repository is a treasure trove of research papers on LLM-based agents.. | Pending|
 |[**✅ 12-Masterclass: Large Language Models for Data Science**](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science)| This repository focuses on integrating LLMs into workflows. It provides an ebook-style introduction to various topics such as prompt engineering, local LLMs, retrieval-augmented generation (RAG) problems, and more | Pending|
 |[**✅ 13-Awesome LLM Apps**](https://github.com/Shubhamsaboo/awesome-llm-apps)| A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.| Pending|
+|[**✅ 14-Hands-On Large Language Models**](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)| Welcome! In this repository you will find the code for all examples throughout the book Hands-On Large Language Models written by Jay Alammar and Maarten Grootendorst which we playfully dubbed:| Pending|
+|[**✅ 15-Awesome-Multimodal-Large-Language-Models**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models?tab=readme-ov-file)|The first comprehensive survey for Multimodal Large Language Models (MLLMs). ✨| Pending|
+|[**✅ 16-Build a Large Language Model (From Scratch)**](https://github.com/rasbt/LLMs-from-scratch)|This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book Build a Large Language Model (From Scratch).| Pending|
 
 
 
