@@ -345,6 +345,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅ 14-Hands-On Large Language Models**](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)| Welcome! In this repository you will find the code for all examples throughout the book Hands-On Large Language Models written by Jay Alammar and Maarten Grootendorst which we playfully dubbed:| Pending|
 |[**✅ 15-Awesome-Multimodal-Large-Language-Models**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models?tab=readme-ov-file)|The first comprehensive survey for Multimodal Large Language Models (MLLMs). ✨| Pending|
 |[**✅ 16-Build a Large Language Model (From Scratch)**](https://github.com/rasbt/LLMs-from-scratch)|This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book Build a Large Language Model (From Scratch).| Pending|
+|[**✅ 17-AI-Notebooks by Marktechpost**](https://github.com/Marktechpost/AI-Notebooks/tree/main)|AI-Tutorials/Implementations and Notebooks.| Pending|
 
 
 
