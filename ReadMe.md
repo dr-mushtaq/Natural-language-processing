@@ -256,6 +256,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 <details> 
 <summary> <h2>📕Course 03 -Natural Language Processing with Sequence Models</h2> </summary>
+
+This course dives deep into sequence modeling techniques for Natural Language Processing (NLP), covering foundational to state-of-the-art architectures like RNNs, GRUs, LSTMs, and Transformer models. Learners will explore language modeling, machine translation, text summarization, named entity recognition, and more. The course emphasizes both theoretical understanding and practical implementation through coding assignments, mini-projects, and real-world datasets.
   
  ### Week 1-[**📚Chapter1:Recurrent Neural Networks for Language modeling**]()
 
