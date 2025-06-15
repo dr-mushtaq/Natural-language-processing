@@ -57,10 +57,11 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
 💡 Start your NLP journey today!
 
-🎓 Enrolled Courses
+## 🎓 **Enrolled Courses**
+
 Please enrolled in to strengthen knowledge and practical skills in natural language processing.
 
-🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
+🔗 [**Basic Natural Language Processing**l](https://coursesteach.com/enrol/index.php?id=46)
 
 🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
 
