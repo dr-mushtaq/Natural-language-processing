@@ -59,11 +59,22 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
 ## 🎓 **Enrolled Courses**
 
-Please enrolled in to strengthen knowledge and practical skills in natural language processing.
+Please enrolled in the following courses to strengthen my knowledge and practical skills in Natural Language Processing (NLP). These courses are designed to provide both theoretical understanding and hands-on experience with real-world NLP applications.
 
 🔗 [**Basic Natural Language Processing**l](https://coursesteach.com/enrol/index.php?id=46)
 
-🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
+1- Covers foundational concepts such as tokenization, POS tagging, lemmatization, and basic text classification.
+
+🔗 [**NLP Probabilistic Models**](https://coursesteach.com/enrol/index.php?id=187)
+
+1- Focuses on probabilistic techniques including n-gram models, Naive Bayes, and Hidden Markov Models.
+
+
+🔗 [**NLP with Sequence Model**](https://coursesteach.com/enrol/index.php?id=256)
+
+1. Explores advanced topics such as RNNs, LSTMs, GRUs, and their application in language modeling and machine translation.
+
+   💡 These courses are part of a structured NLP curriculum offered by Coursesteach, designed by Couresteach team, and emphasize practical implementation using Python and deep learning libraries.
 
 ## **🌍 Join Our Community**
 
