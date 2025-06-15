@@ -59,7 +59,7 @@ Welcome to the Natural Language Processing (NLP) Course, an open-source initiati
 
 ## 🎓 **Enrolled Courses**
 
-Please enrolled in the following courses to strengthen my knowledge and practical skills in Natural Language Processing (NLP). These courses are designed to provide both theoretical understanding and hands-on experience with real-world NLP applications.
+Please enrolled in the following courses to strengthen knowledge and practical skills in Natural Language Processing (NLP). These courses are designed to provide both theoretical understanding and hands-on experience with real-world NLP applications.
 
 🔗 [**Basic Natural Language Processing**l](https://coursesteach.com/enrol/index.php?id=46)
 
@@ -74,7 +74,7 @@ Please enrolled in the following courses to strengthen my knowledge and practica
 
 1. Explores advanced topics such as RNNs, LSTMs, GRUs, and their application in language modeling and machine translation.
 
-   💡 These courses are part of a structured NLP curriculum offered by Coursesteach, designed by Couresteach team, and emphasize practical implementation using Python and deep learning libraries.
+💡 These courses are part of a structured NLP curriculum offered by Coursesteach, designed by Couresteach team, and emphasize practical implementation using Python and deep learning libraries.
 
 ## **🌍 Join Our Community**
 
