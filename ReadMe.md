@@ -292,6 +292,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
  |**🌐6-Recurrent Neural Networks**| [**1**](https://drive.google.com/file/d/1x0UjEXUdYOuA0biwC3CZv5O343dQGIjT/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐7-Application of RNN**| [**1**](https://drive.google.com/file/d/1IMHkAYuq1j4Q7TA7x1eO6iDZOqwXf36v/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |**🌐9-Math in Simple RNNs**| [**1**](https://drive.google.com/file/d/1lndcAud4iy3APbSUuwwfrBw6zVNcLBsO/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |**🌐10-Cost Function for RNNs**| [**1**](https://drive.google.com/file/d/1aZMnZuh9WfV42KJh1NVYmdr5DqnNKfTt/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+
 
 
 
