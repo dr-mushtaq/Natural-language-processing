@@ -163,7 +163,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## Week 3 -[**📚Chapter 3:Vector Space Model**]()
  | Topic Name/Tutorial | Video | Code |
  |---|---|---|
- |[**🌐1-Vector Space Models**](https://medium.com/@Coursesteach/natural-language-processing-part-25-vector-space-models-bad08067a5ac)| [**1**](https://drive.google.com/file/d/1Vuy_2RPHJhz2JaPJQK5RZxxMdchmBDL_/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |[**✅1-Vector Space Models**](https://mushtaqmsit.substack.com/p/understanding-vector-space-models)| [**1**](https://drive.google.com/file/d/1Vuy_2RPHJhz2JaPJQK5RZxxMdchmBDL_/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |[**🌐2-Word by Word and Word by Doc**](https://medium.com/@Coursesteach/natural-language-processing-part-26-word-by-word-and-word-by-doc-4dfa832d2d8e)| [**1**](https://drive.google.com/file/d/1otyRw-Q3JBEDWVn59dxFeqDQxed558Zv/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |[**🌐3-Euclidean Distance**](https://medium.com/@Coursesteach/natural-language-processing-part-27-euclidean-distance-180befc6c6ef)| [**1**](https://drive.google.com/file/d/1zA0ygWA00RCXiuN86tJuQsitMvjraWZb/view)[-2](https://www.youtube.com/watch?v=m_CooIRM3UI)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
  |[**🌐4-Cosine Similarity: Intuition**](https://medium.com/@Coursesteach/natural-language-processing-part-28-cosine-similarity-intuition-68a4654d3cb2)| [**1**](https://drive.google.com/file/d/1z-6tCUnoWsMmlvr7rppk8ALdoY2Fyvjy/view)[-2](https://www.youtube.com/watch?v=m_CooIRM3UI)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
@@ -345,7 +345,8 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
-|[**✅1- learngood**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is Videos and github|---|
+|[**✅14- learngood**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is Videos and github|---|
+|[**✅15-AI Agents for Beginners - A Course by Miscroft**](https://github.com/microsoft/ai-agents-for-beginners)|Lessons teaching everything you need to know to start building AI Agents|---|
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
@@ -378,6 +379,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 15-Awesome-Multimodal-Large-Language-Models**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models?tab=readme-ov-file)|The first comprehensive survey for Multimodal Large Language Models (MLLMs). ✨| Pending|
 |[**✅ 16-Build a Large Language Model (From Scratch)**](https://github.com/rasbt/LLMs-from-scratch)|This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book Build a Large Language Model (From Scratch).| Pending|
 |[**✅ 17-AI-Notebooks by Marktechpost**](https://github.com/Marktechpost/AI-Notebooks/tree/main)|AI-Tutorials/Implementations and Notebooks.| Pending|
+|[**✅ 18-microsoft**](https://github.com/microsoft/ai-agents-for-beginners)|AI-Tutorials/Implementations and Notebooks.| Pending|
 
 
 
