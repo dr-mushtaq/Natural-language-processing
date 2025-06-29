@@ -140,7 +140,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**✅Lab#1:Visualizing word frequencies**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_word_frequencies.ipynb)|
 |**✅Lab 2:Visualizing tweets and the Logistic Regression model**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)|
 |**✅Assignmen:Sentiment analysis with logistic Regression**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Sentiment_analysis_with_logistic_Regression_Assignment.ipynb)|
-|**✅Mini Project:entiment Analysis of Tweets Using Logistic Regression**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AProjects/Real_Time_Tweet_Sentiment_Classifier.ipynb)|
+|**✅Mini Project:Sentiment Analysis of Tweets Using Logistic Regression**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AProjects/Real_Time_Tweet_Sentiment_Classifier.ipynb)|
    
    
   ### Week 2-**📚Chapter3:Sentiment Analysis using Naive Bayes**
