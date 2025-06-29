@@ -342,11 +342,12 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 11-Multi-AI Agent Systems with CrewAI deeplearning.ai**](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)|Learn principles of designing effective AI agents and organizing agent teams..by João Moura| Pending|
 |[**✅ 12-Smol Agents: Build & Deploy by Hugging Face**](https://huggingface.co/learn/agents-course/en/unit0/introduction)|Study AI agents in theory, design, and practical application| Pending|
 |[**✅ 13-Advanced Large Language Model Agents by**](https://rdi.berkeley.edu/adv-llm-agents/sp25)|Learn advanced topics like complex reasoning and planning for LLM agents. by Xinyun Chen| Pending|
+|[**✅ 14-AI Agents for Beginners - A Course by Miscroft**](https://github.com/microsoft/ai-agents-for-beginners)|Lessons teaching everything you need to know to start building AI Agents| Pending|
+
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅14- learngood**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is Videos and github|---|
-|[**✅15-AI Agents for Beginners - A Course by Miscroft**](https://github.com/microsoft/ai-agents-for-beginners)|Lessons teaching everything you need to know to start building AI Agents|---|
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
