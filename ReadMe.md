@@ -1,4 +1,4 @@
-## **Welcome to Collaborative Natural Language Processing (NLP) Course👋🛒**
+## **Natural Language Processing with Python👋🛒**
 <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 <p align="center">
 <img src="https://github.com/hussain0048/Natural-language-processing/blob/main/CoursesTeach.jpg"></a>
