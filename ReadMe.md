@@ -343,6 +343,7 @@ This course dives deep into sequence modeling techniques for Natural Language Pr
 |[**✅ 12-Smol Agents: Build & Deploy by Hugging Face**](https://huggingface.co/learn/agents-course/en/unit0/introduction)|Study AI agents in theory, design, and practical application| Pending|
 |[**✅ 13-Advanced Large Language Model Agents by**](https://rdi.berkeley.edu/adv-llm-agents/sp25)|Learn advanced topics like complex reasoning and planning for LLM agents. by Xinyun Chen| Pending|
 |[**✅ 14-AI Agents for Beginners - A Course by Miscroft**](https://github.com/microsoft/ai-agents-for-beginners)|Lessons teaching everything you need to know to start building AI Agents| Pending|
+|[**✅ 14-CS336: Language Modeling from Scratch**](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)|Stanford's CS336 2025 (Language Modeling from Scratch) is now available on YouTube| Pending|
 
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
